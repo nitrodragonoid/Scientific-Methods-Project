@@ -1,0 +1,11 @@
+Table 4 Parameters of population model.,,,,,
+Parameter,Explanation,Best value,Range for sensitivity analysis,Assumed distribution,Source/Comments
+n(1993),Population in year 1993,"736,053","422,995–1,049,111",Normal (CV = 0.218),Extrapolation from surveys
+r,Maximum potential rate of increase,0.0096/yr,0.0046–0.0146,Uniform [0.0046–0.0146],15
+θ,Shape of density-dependent function,2.39,1.0–18.17,"Taken from {1.00, 1.55, 2.39, 4.55, 18.17}",45Adding intermediate (on a log scale) values of 1.55 and 4.55
+f(1712–1899),Correction for earlier catch,1.1,1.05–1.15,Uniform [1.05–1.15],17
+f(1900–1986),Correction for later catch,1.05,1.01–1.20,Uniform [1.01–1.20],Based on6
+K,Number of subpopulations,8,1–15,Taken from 1:15,K = 10 and α = 0.7 gave an expansion of whaling efforts to new populations in the early 1800’s in line with the historical record
+α,Proportion of original size when exploitation moves to next population,0.7,0.5–0.8,Uniform [0.5–0.8],
+q,Reduction in rate of increase due to social disruption of whaling,0.05/yr,0.0–0.1,Normal (SE = 0.02),Based upon decrease in Eastern Tropical Pacific post whaling
+T,Number of years over which social disruption occurs,15 yr,2–25,"Taken from {2, 4, 8, 16, 32}",Based upon decrease in Eastern Tropical Pacific post whaling. Effects documented in elephants46

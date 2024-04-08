@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo>
+		<origin>Hill, M</origin><pubdate>2023</pubdate><title>PIFSC, Cetacean Survey, WHICEAS 2020, Cruise 2001, NOAA Pacific Islands Fisheries Science Center</title><geoform>vector digital data</geoform><serinfo><sername>OBIS-SEAMAP</sername><issue>2238</issue></serinfo><pubinfo><pubplace>https://seamap.env.duke.edu/dataset/2238</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><onlink>https://seamap.env.duke.edu/dataset/2238</onlink></citeinfo>
+	</citation><descript>
+	<abstract>The Winter Hawaiian Islands Cetacean and Ecosystem Assessment Survey (referred to as “Winter HICEAS”) of 2020 was a ship-board survey for cetaceans and seabirds within offshore waters surrounding the main Hawaiian Islands (MHI). This project used many of the same methods as the previous HICEAS projects which occurred in 2002 (Barlow 2006), 2010 (Bradford et al. 2017), and 2017 (Yano et al. 2018).&#13;
+The Winter HICEAS 2020 project represents the third cetacean and ecosystem assessment survey conducted as part of the Pacific Marine Assessment Program for Protected Species (PacMAPPS), a partnership between NOAA Fisheries, Bureau of Ocean Energy Management (BOEM), and the U.S. Navy. PacMAPPS includes rotational ship surveys in regions of joint interest throughout the Pacific designed to estimate the abundance of cetaceans and seabirds and to assess the ecosystems supporting these species. The previous PacMAPPS surveys include the 2017 HICEAS and 2018 California Current Ecosystem Survey. The HICEAS project was a collaborative effort between the Pacific Islands and the Southwest Fisheries Science Centers (PIFSC and SWFSC) and surveyed the U.S. waters surrounding the northwestern and main Hawaiian Islands from July through December 2017, whereas the 2018 California Current Ecosystem Survey, led by the SWFSC, surveyed waters offshore from the U.S. West Coast from June through December 2018 (Henry et al. 2020).&#13;
+Winter HICEAS 2020 sailed aboard the NOAA Ship Oscar Elton Sette (hereafter referred to as the Sette) for 51 days-at-sea. The project was conducted during 2 survey “legs”; Leg 1 sailed on 18 January to 12 February and Leg 2 sailed on 17 February to 12 March.&#13;
+During 51 days-at-sea, there were 326 cetacean sightings  and 53 groups of dolphins and whales that could not be identified to species</abstract><purpose>Please contact data provider</purpose><supplinf>[2023-09-06] Some of the sightings got their group sizes estimated incorrectly. These are fixed.&#13;
+&#13;
+Data were collected under NMFS permit 20311.&#13;
+The data included here are the sightings and on-effort tracks recorded within WinCruz survey software and extracted from the QA/QC'd DAS file using the R package swfscDAS (https://smwoodman.github.io/swfscDAS).&#13;
+&#13;
+Attributes for fields within the trackline files:&#13;
+Cruise - see description in attribute table below&#13;
+segnum - segment number for continuous on-effort line&#13;
+Date - Local date m/dd/yyyy&#13;
+TimeStart - Local time at start of on-effort segment&#13;
+LatStart - Latitude in decimal degrees at starting point of on-effort segment&#13;
+LongStart - Longitude in decimal degrees at starting point of on-effort segment&#13;
+TimeEnd - Local time at end of on-effort segment&#13;
+LatEnd - Latitude in decimal degrees at end point of on-effort segment&#13;
+LongEnd - Longitude in decimal degrees at end point of on-effort segment&#13;
+Mode - see description in attribute table below&#13;
+EffType - see description in attribute table below&#13;
+avgSpdKt - average speed (knots) of the ship over the on-effort segment traveled&#13;
+avgBft - average Beaufort Sea State over the on-effort segment&#13;
+&#13;
+Other data not included here:&#13;
+Photos and biopsy samples were collected during some sightings. Acoustic detections were recorded from a towed hydrophone array. Sonobuoys were deployed opportunistically. Drifting Acoustic Spar Buoy Recorders (DASBRs) were deployed and recovered opportunistically.  A High-frequency Acoustic Recording Package (HARP) was recovered and redeployed off the Kona Coast of Hawaii Island. Oceanographic data were collected (CTD).</supplinf></descript><timeperd><timeinfo><rngdates><begdate>20200119</begdate><enddate>20200311</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><descgeog>Hawaii</descgeog><bounding><westbc>-161.91283</westbc><eastbc>-153.30267</eastbc><northbc>23.45233</northbc><southbc>17.713</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Animal Survey</themekey><themekey>Marine Biology</themekey><themekey>Marine mammals</themekey><themekey>Visual Sighting</themekey><themekey>Vessel</themekey></theme><place><placekt>None</placekt><placekey>Hawaii</placekey></place></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Balaenopteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Balaenoptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera acutorostrata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera borealis</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera physalus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Megaptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Megaptera novaeangliae</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Feresa</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Feresa attenuata</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Grampus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Grampus griseus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Lagenodelphis</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Lagenodelphis hosei</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Peponocephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Peponocephala electra</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Pseudorca</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Pseudorca crassidens</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella attenuata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella coeruleoalba</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella longirostris</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Steno</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Steno bredanensis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Hyperoodontidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Indopacetus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Indopacetus pacificus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Mesoplodon</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon densirostris</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Kogiidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Kogia</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Kogia sima</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Physeteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Physeter</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Physeter macrocephalus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.&#13;
+&#13;
+Suggested citation for this dataset:&#13;
+&#13;
+Hill, M. 2023. PIFSC, Cetacean Survey, WHICEAS 2020, Cruise 2001, NOAA Pacific Islands Fisheries Science Center. Data downloaded from OBIS-SEAMAP (https://seamap.env.duke.edu/dataset/2238) on yyyy-mm-dd.&#13;
+&#13;
+Suggested citation for OBIS-SEAMAP:&#13;
+&#13;
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115&#13;
+&#13;
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.&#13;
+&#13;
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. &#13;
+&#13;
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.&#13;
+&#13;
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.&#13;
+&#13;
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Marie C. Hill</cntper><cntorg>NOAA Pacific Islands Fisheries Science Center</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>1845 Wasp Blvd.</address><city>Honolulu</city><state>HI</state><postal>96818</postal><country>USA</country></cntaddr>
+		<cntvoice>808-725-5710</cntvoice><cntemail>Marie.Hill@noaa.gov</cntemail></cntinfo>
+	</ptcontac><datacred>NOAA Pacific Islands Fisheries Science Center</datacred>
+	<native>Relational database</native>
+	<crossref><citeinfo><origin>Yano KM, Oleson EM, McCullough JLK, Hill MC, and Henry AE.</origin><pubdate>2020</pubdate><title>Cetacean and Seabird Data Collected During the Winter Hawaiian Islands Cetacean and Ecosystem Assessment Survey (Winter HICEAS), January–March 2020</title><geoform>vector digital data</geoform><serinfo><sername>U.S. Department of Commerce, NOAA Technical Memorandum NOAA-TM-NMFS-PIFSC-111,</sername><issue>72 p.</issue></serinfo><onlink>https://doi.org/10.25923/ehfg-dp78</onlink></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20230907</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-06</latres><longres>1e-06</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>line</attrlabl><attrdef>Line No.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>328</rdommax></rdom></attrdomv></attr><attr><attrlabl>sightno</attrlabl><attrdef>Sighting No. (continuous numbers incrementing from 1)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>311</rdommax></rdom></attrdomv></attr><attr><attrlabl>datetime</attrlabl><attrdef>Date and time of the sighting at local time zone</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2020-01-19 07:50:21</rdommin><rdommax>2020-03-11 17:46:34</rdommax></rdom></attrdomv></attr><attr><attrlabl>lat</attrlabl><attrdef>Ship Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>17.713000</rdommin><rdommax>23.452330</rdommax></rdom></attrdomv></attr><attr><attrlabl>lon</attrlabl><attrdef>Ship Longitude in dcimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-161.912830</rdommin><rdommax>-153.302670</rdommax></rdom></attrdomv></attr><attr><attrlabl>cruise</attrlabl><attrdef>Cruise No.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2001</rdommin><rdommax>2001</rdommax></rdom></attrdomv></attr><attr><attrlabl>mode</attrlabl><attrdef>C = closing (observer team went off-effort when a cetacean group was sighted to focus on species identification, group-size estimation, or other data collection); P = passing (search effort was continuous even after a sighting was made; rare - generally occurring only when the ship was required to be somewhere at a specific time)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>C = closing (observer team went off-effort when a cetacean group was sighted to focus on species identification, group-size estimation, or other data collection); P = passing (search effort was continuous even after a sighting was made; rare - generally occurring only when the ship was required to be somewhere at a specific time)</udom></attrdomv></attr><attr><attrlabl>efftype</attrlabl><attrdef>Effort Type: S = standard/systematic (search effort while following predetermined parallel transects); N = Non-standard/non-systematic (search effort during transit between transect lines, to &amp; from port, or circumnavigating islands); F = fine scale (search effort within the main Hawaiian Islands focal area)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Effort Type: S = standard/systematic (search effort while following predetermined parallel transects); N = Non-standard/non-systematic (search effort during transit between transect lines, to &amp; from port, or circumnavigating islands); F = fine scale (search effort within the main Hawaiian Islands focal area)</udom></attrdomv></attr><attr><attrlabl>oneffort</attrlabl><attrdef>Effort status assigned in the field: TRUE = on-effort (the 3-person observer team was on the flying bridge actively searching for cetaceans); FALSE = off-effort (the observer team had suspended active searching; e.g., during another sighting or inclement weather). Depending on analysis assumptions, some on-effort sightings could be considered off-effort (e.g., made by a non-primary observer or past a specified truncation distance). For more information on additional data attributes or considerations, please contact the data provider.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Effort status assigned in the field: TRUE = on-effort (the 3-person observer team was on the flying bridge actively searching for cetaceans); FALSE = off-effort (the observer team had suspended active searching; e.g., during another sighting or inclement weather). Depending on analysis assumptions, some on-effort sightings could be considered off-effort (e.g., made by a non-primary observer or past a specified truncation distance). For more information on additional data attributes or considerations, please contact the data provider.</udom></attrdomv></attr><attr><attrlabl>nsp</attrlabl><attrdef>Number of cetacean species present during an encounter (sighting)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>3</rdommax></rdom></attrdomv></attr><attr><attrlabl>spcode</attrlabl><attrdef>Numeric species code by provider</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2</rdommin><rdommax>377</rdommax></rdom></attrdomv></attr><attr><attrlabl>sciname</attrlabl><attrdef>Scientific name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Scientific name</udom></attrdomv></attr><attr><attrlabl>commonname</attrlabl><attrdef>Common name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Common name</udom></attrdomv></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>180403</rdommin><rdommax>770799</rdommax></rdom></attrdomv></attr><attr><attrlabl>gsspbest</attrlabl><attrdef>Best estimate of species group size (the arithmetic mean of all observers)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1.000</rdommin><rdommax>342.540</rdommax></rdom></attrdomv></attr><attr><attrlabl>gssphigh</attrlabl><attrdef>High estimate of species group size (the arithmetic mean of all observers)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1.000</rdommin><rdommax>454.590</rdommax></rdom></attrdomv></attr><attr><attrlabl>gssplow</attrlabl><attrdef>Low estimate of species group size (the arithmetic mean of all observers)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1.000</rdommin><rdommax>280.660</rdommax></rdom></attrdomv></attr><attr><attrlabl>perpdistkm</attrlabl><attrdef>Perpendicular distance (km) of the sighted group from the trackline</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0.000</rdommin><rdommax>9.760</rdommax></rdom></attrdomv></attr><attr><attrlabl>bft</attrlabl><attrdef>Beaufort sea state</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Beaufort sea state</udom></attrdomv></attr><attr><attrlabl>swellhght</attrlabl><attrdef>Swell height (height of predominant swell in feet)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Swell height (height of predominant swell in feet)</udom></attrdomv></attr><attr><attrlabl>vis</attrlabl><attrdef>Visibility (distance in nautical miles at which a dolphin could be seen surfacing with the water (not sky) as background)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Visibility (distance in nautical miles at which a dolphin could be seen surfacing with the water (not sky) as background)</udom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>NOAA Pacific Islands Fisheries Science Center (PIFSC)</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 2238</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20230907</metd><metrd>20230907</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

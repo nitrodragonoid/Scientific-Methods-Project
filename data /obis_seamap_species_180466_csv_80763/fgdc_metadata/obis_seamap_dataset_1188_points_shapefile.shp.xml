@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo><origin>Spontak, D</origin><pubdate>2014</pubdate><title>HRC KB22 Searcher Vessel Survey Feb 2014</title><onlink>http://seamap.env.duke.edu/dataset/1188</onlink><serinfo><sername>OBIS-SEAMAP</sername><issue>1188</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/1188</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><geoform>vector digital data</geoform></citeinfo>
+	</citation><descript>
+	<abstract>Please contact data provider</abstract><purpose>Please contact data provider</purpose></descript><timeperd><timeinfo><rngdates><begdate>20140201</begdate><enddate>20140209</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><descgeog>Pacific Ocean</descgeog><bounding><westbc>-160.01497</westbc><eastbc>-159.67344</eastbc><northbc>22.22799</northbc><southbc>21.90243</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Animal Survey</themekey><themekey>Marine Biology</themekey><themekey>Marine mammals</themekey><themekey>Visual Sighting</themekey><themekey>Vessel</themekey></theme><place><placekt>None</placekt><placekey>Pacific Ocean</placekey><placekey>Hawaii</placekey></place></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella longirostris</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Steno</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Steno bredanensis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Hyperoodontidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Mesoplodon</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon densirostris</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst><useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.&#13;
+&#13;
+Suggested citation for this dataset:&#13;
+&#13;
+Spontak, D. 2014. HRC KB22 Searcher Vessel Survey Feb 2014. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/1188) on yyyy-mm-dd.&#13;
+&#13;
+Suggested citation for OBIS-SEAMAP:&#13;
+&#13;
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115&#13;
+&#13;
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.&#13;
+&#13;
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. &#13;
+&#13;
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.&#13;
+&#13;
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.&#13;
+&#13;
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst><ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Dana Spontak</cntper><cntorg>HDR Environmental, Operations and Construction, Inc.</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>5700 Lake Wright Dr.</address><city>Norfolk</city><state>VA</state><postal>23502-1859</postal><country>USA</country></cntaddr>
+		<cntvoice>830-330-1834</cntvoice><cntemail>dana.spontak@hdrinc.com</cntemail></cntinfo>
+	</ptcontac><datacred>The U.S. Navy Marine Species Monitoring Program</datacred>
+	<native>Relational database</native>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20170928</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-06</latres><longres>1e-06</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>sgt_id</attrlabl><attrdef>Sighting ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Sighting ID</udom></attrdomv></attr><attr><attrlabl>obs_date</attrlabl><attrdef>Date of observation</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2014-02-01</rdommin><rdommax>2014-02-09</rdommax></rdom></attrdomv></attr><attr><attrlabl>obs_time</attrlabl><attrdef>Time of the observation (local time zone)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>07:37:00</rdommin><rdommax>15:20:00</rdommax></rdom></attrdomv></attr><attr><attrlabl>sp_obs</attrlabl><attrdef>Species name recorded</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Species name recorded</udom></attrdomv></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><codesetd><codesetn>Taxonomic Serial Number added by OBIS-SEAMAP</codesetn><codesets>Data provider</codesets></codesetd></attrdomv></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>21.902430</rdommin><rdommax>22.227990</rdommax></rdom></attrdomv></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-160.014970</rdommin><rdommax>-159.673440</rdommax></rdom></attrdomv></attr><attr><attrlabl>obs_count</attrlabl><attrdef>best estimate of number of animals</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>45</rdommax></rdom></attrdomv></attr><attr><attrlabl>grp_high</attrlabl><attrdef>High estimate of number of animals</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>50</rdommax></rdom></attrdomv></attr><attr><attrlabl>grp_low</attrlabl><attrdef>Low estimate of number of animals</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>40</rdommax></rdom></attrdomv></attr><attr><attrlabl>calves</attrlabl><attrdef>Number of calves</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Number of calves</udom></attrdomv></attr><attr><attrlabl>beaufort_sea_state</attrlabl><attrdef>Beaufort sea state</attrdef><attrdefs>Data provider</attrdefs><attrdomv><edom><edomv>2</edomv><edomvd>Beaufort sea state 2</edomvd><edomvds>Data provider</edomvds></edom><edom><edomv>3</edomv><edomvd>Beaufort sea state 3</edomvd><edomvds>Data provider</edomvds></edom><edom><edomv>4</edomv><edomvd>Beaufort sea state 4</edomvd><edomvds>Data provider</edomvds></edom></attrdomv></attr><attr><attrlabl>distance</attrlabl><attrdef>Distance off Track (km)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0.100</rdommin><rdommax>5.350</rdommax></rdom></attrdomv></attr><attr><attrlabl>bottom_depth</attrlabl><attrdef>Bottom depth (m)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>&lt;10m</rdommin><rdommax>887</rdommax></rdom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>HDR Environmental, Operations and Construction, Inc.</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 1188</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20170928</metd><metrd>20170928</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

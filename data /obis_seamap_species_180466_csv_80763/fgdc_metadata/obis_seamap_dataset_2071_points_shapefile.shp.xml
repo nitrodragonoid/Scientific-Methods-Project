@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo>
+		<origin>Hill, M</origin><pubdate>2020</pubdate><title>PIFSC, Cetacean Surveys, Mariana Archipelago Small-Boat Surveys 2010-2019, NOAA Pacific Islands Fisheries Science Center</title><geoform>vector digital data</geoform><serinfo><sername>OBIS-SEAMAP</sername><issue>2071</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/2071</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><onlink>http://seamap.env.duke.edu/dataset/2071</onlink></citeinfo>
+	</citation><descript>
+	<abstract>The Pacific Islands Fisheries Science Center (PIFSC) Cetacean Research Program has conducted research on cetaceans in the Mariana Archipelago since 2010 (Hill et al. in review). A cooperative effort with funding from U.S. Navy Pacific Feet and PIFSC has included summer and winter small-boat surveys off the southernmost islands (Saipan, Tinian, Aguijan, Rota, and Guam). Across all summer and winter small-boat survey efforts, PIFSC conducted 270 days of surveys. Most of the survey effort occurred in summer months (May–September) and there was no effort during October–December. &#13;
+&#13;
+There were 362 groups (excluding within-day re-sights) identified to 14 species including (in order of frequency of occurrence) spinner dolphin, pantropical spotted dolphin, bottlenose dolphin, short-finned pilot whale, rough-toothed dolphin, sperm whale, false killer whale, dwarf sperm whale, pygmy killer whale, Bryde's whale, melon-headed whale, Blainville's beaked whale, and Cuvier's beaked whale. Humpback whales were encountered in January–March 2015–2019 when targeted surveys were conducted off Saipan. Across all PIFSC small-boat surveys, there were 19 mixed-species groups, each including 2–3 species. Some groups could not be identified to species, and are indicated as unidentified beaked whales, unidentified whales, and unidentified dolphins. The overall effort resulted in collection of 130,066 photos and 435 biopsy samples, and deployment of 44 satellite tags.</abstract><purpose>The goal of these efforts has been to collect the data necessary to conduct population assessments for cetaceans within the Mariana Archipelago, including the determination of their occurrence, population structure, and abundance, movements, distribution, and habitat use. In addition, these data may be used to evaluate the potential exposure of cetaceans to human-caused stressors within the waters surrounding the Mariana Archipelago including U.S. Navy operations (e.g., sonar, use of explosives), fisheries interactions, and dolphin tourism.</purpose><supplinf>PIFSC has conducted visual surveys for cetaceans in the waters off the southernmost islands of the Mariana Archipelago (Saipan, Tinian, Aguijan, Rota, and Guam) aboard small vessels (5.8–12.2 m). Survey tracks did not follow a randomized design, but instead were spread out from day to day to ensure broad survey coverage over a wide range of depths and were also dictated by weather and sea conditions. The survey vessels traveled at a speed of 15–26 km/h, depending on the size of the vessel and sea conditions. Between 4 and 6 observers scanned for marine mammals with unaided eyes or, occasionally handheld binoculars, collectively searching 360-degrees around the vessel.&#13;
+&#13;
+All cetacean groups encountered were approached for species confirmation, group size estimates, photo-identification, and biopsy sampling/sloughed skin collection. In 2013, satellite tagging was implemented to investigate movements and spatial use of individuals of some species. Additional data collected during each sighting included the location (latitude/longitude), behavior, and estimates of calf numbers. Survey conditions (e.g., Beaufort sea state, swell height) and effort status were recorded regularly as conditions changed. A handheld Global Positioning System (GPS) automatically recorded the vessel’s track at 1-minute intervals.</supplinf></descript><timeperd><timeinfo><rngdates><begdate>20100209</begdate><enddate>20190126</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><descgeog>North Pacific</descgeog><bounding><westbc>144.401499</westbc><eastbc>145.8872</eastbc><northbc>15.622688</northbc><southbc>13.11742</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Animal Survey</themekey><themekey>Marine Biology</themekey><themekey>Marine mammals</themekey><themekey>Visual Sighting</themekey><themekey>Vessel</themekey></theme><place><placekt>None</placekt><placekey>North Pacific</placekey><placekey>Marianas</placekey><placekey>Guam</placekey><placekey>Commonwealth of the Northern Mariana Islands</placekey></place></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Balaenopteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Balaenoptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera brydei</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Megaptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Megaptera novaeangliae</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Feresa</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Feresa attenuata</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Peponocephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Peponocephala electra</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Pseudorca</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Pseudorca crassidens</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella attenuata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella longirostris</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Steno</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Steno bredanensis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Hyperoodontidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Mesoplodon</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon densirostris</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Ziphius</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Ziphius cavirostris</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Kogiidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Kogia</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Kogia sima</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Physeteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Physeter</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Physeter macrocephalus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.&#13;
+&#13;
+Suggested citation for this dataset:&#13;
+&#13;
+Hill, M. 2020. PIFSC, Cetacean Surveys, Mariana Archipelago Small-Boat Surveys 2010-2019, NOAA Pacific Islands Fisheries Science Center. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/2071) on yyyy-mm-dd.&#13;
+&#13;
+Suggested citation for OBIS-SEAMAP:&#13;
+&#13;
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115&#13;
+&#13;
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.&#13;
+&#13;
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. &#13;
+&#13;
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.&#13;
+&#13;
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.&#13;
+&#13;
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Marie C. Hill</cntper><cntorg>NOAA Pacific Islands Fisheries Science Center</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>1845 Wasp Blvd.</address><city>Honolulu</city><state>HI</state><postal>96818</postal><country>USA</country></cntaddr>
+		<cntvoice>808-725-5710</cntvoice><cntemail>Marie.Hill@noaa.gov</cntemail></cntinfo>
+	</ptcontac><datacred>NOAA Pacific Islands Fisheries Science Center</datacred>
+	<native>Relational database</native>
+	<crossref><citeinfo><origin>Hill, M.C., E.M. Oleson, A.L. Bradford, K.K. Martien, D. Steel, and C.S. Baker</origin><pubdate>2020 (in review)</pubdate><title>Assessing cetacean populations in the Mariana Archipelago: A summary of data and analyses arising from Pacific Islands Fisheries Science Center surveys from 2010-2019</title><geoform>vector digital data</geoform><serinfo><sername>U.S. Dept. of Commerce, NOAA Technical Memorandum NOAA-TM-NMFS-PIFSC-##</sername><issue>88 p.</issue></serinfo><onlink>doi:10.7289/V5/TM-PIFSC-##</onlink></citeinfo></crossref><crossref><citeinfo><origin>Hill, M.C., A.L. Bradford, D. Steel, C.S. Baker, A.D. Ligon, A.C. Ü, J.M.V. Acebes, O.A. Filatova, N. Kobayashi, Y. Morimoto, H. Okabe, R. Okamoto, J. Rivers, T. Sato, O.V. Titova, R.K. Uyeyama, and E.M. Oleson</origin><pubdate>2020</pubdate><title>Found: a missing breeding ground for endangered western North Pacific humpback whales in the Mariana Archipelago</title><geoform>vector digital data</geoform><serinfo><sername>Endangered Species Research</sername><issue>41:91–103</issue></serinfo><onlink>doi: 10.3354/esr01010</onlink></citeinfo></crossref><crossref><citeinfo><origin>Hill, M.C., A.R. Bendlin, A.M. Van Cise, A. Milette-Winfree, A.D. Ligon, M.H. Deakos, A.C. Ü, and E.M. Oleson</origin><pubdate>2019</pubdate><title>Short-finned pilot whales (Globicephala macrorhynchus) of the Mariana Archipelago: Individual affiliations, movements, and spatial use.</title><geoform>vector digital data</geoform><serinfo><sername>Marine Mammal Science</sername><issue>35:797–824</issue></serinfo><onlink>doi: 10.1111/mms.12567</onlink></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20200717</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-06</latres><longres>1e-06</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>line</attrlabl><attrdef>Line</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>378</rdommax></rdom></attrdomv></attr><attr><attrlabl>local_date</attrlabl><attrdef>Date at local time zone (GMT +10)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2010-02-09</rdommin><rdommax>2019-01-26</rdommax></rdom></attrdomv></attr><attr><attrlabl>sighting_no</attrlabl><attrdef>Sighting No.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Sighting No.</udom></attrdomv></attr><attr><attrlabl>species</attrlabl><attrdef>Species name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Species name</udom></attrdomv></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>180403</rdommin><rdommax>770799</rdommax></rdom></attrdomv></attr><attr><attrlabl>local_time</attrlabl><attrdef>Time at local time zone (GMT +10)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>05:51:17</rdommin><rdommax>17:33:08</rdommax></rdom></attrdomv></attr><attr><attrlabl>region</attrlabl><attrdef>Region (CNMI = Commonwealth of the Northern Mariana Islands)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Region (CNMI = Commonwealth of the Northern Mariana Islands)</udom></attrdomv></attr><attr><attrlabl>island_reef</attrlabl><attrdef>Island, reef (CK Reef = Chalan Kanoa Reef)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Island, reef (CK Reef = Chalan Kanoa Reef)</udom></attrdomv></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>13.1174200</rdommin><rdommax>15.6226880</rdommax></rdom></attrdomv></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>144.4014990</rdommin><rdommax>145.8872000</rdommax></rdom></attrdomv></attr><attr><attrlabl>group_size</attrlabl><attrdef>Group size</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>380</rdommax></rdom></attrdomv></attr><attr><attrlabl>no_calves</attrlabl><attrdef>Number of calves</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0</rdommin><rdommax>8</rdommax></rdom></attrdomv></attr><attr><attrlabl>no_photos</attrlabl><attrdef>Number of photos</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0</rdommin><rdommax>3496</rdommax></rdom></attrdomv></attr><attr><attrlabl>no_biopsy_samples</attrlabl><attrdef>Number of biopsy samples</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0</rdommin><rdommax>18</rdommax></rdom></attrdomv></attr><attr><attrlabl>no_tags_deployed</attrlabl><attrdef>Number of tags deployed</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0</rdommin><rdommax>4</rdommax></rdom></attrdomv></attr><attr><attrlabl>behavior</attrlabl><attrdef>Behavior</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Behavior</udom></attrdomv></attr><attr><attrlabl>beaufort</attrlabl><attrdef>Beaufort sea scale</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0</rdommin><rdommax>6</rdommax></rdom></attrdomv></attr><attr><attrlabl>swell_category</attrlabl><attrdef>Swell height (1: 0-2; 2: 2-4; 3: 4-6; 4: 6-8; 5: 8-10; 6: 10+ (ft))</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom/></attrdomv></attr><attr><attrlabl>depth</attrlabl><attrdef>Depth (m)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><codesetd><codesetn>Depth (m)</codesetn><codesets>Data provider</codesets></codesetd></attrdomv></attr><attr><attrlabl>depth_bin</attrlabl><attrdef>Depth Bin (m)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>100</rdommin><rdommax>3000</rdommax></rdom></attrdomv></attr><attr><attrlabl>distance_to_shore</attrlabl><attrdef>Distance to Shore (km)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0.10</rdommin><rdommax>52.80</rdommax></rdom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>NOAA Pacific Islands Fisheries Science Center (PIFSC)</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 2071</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20230505</metd><metrd>20230505</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

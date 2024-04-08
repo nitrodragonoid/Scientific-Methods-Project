@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo>
+		<origin>Happywhale</origin><pubdate>2020</pubdate><title>Happywhale - Short-finned Pilot Whale in Southern Ocean</title><geoform>vector digital data</geoform><serinfo><sername>OBIS-SEAMAP</sername><issue>2092</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/2092</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><onlink>http://seamap.env.duke.edu/dataset/2092</onlink><othercit>originated from Happywhale.com</othercit></citeinfo>
+	</citation><descript>
+	<abstract>Happywhale.com is a resource to help you know whales as individuals, and to benefit conservation science with rich data about individual whales.</abstract><supplinf>Sightings and images were submitted to Happywhale by contributors. A portion of the Happywhale data were transferred to OBIS-SEAMAP upon the agreement between Happywhale and OBIS-SEAMAP.
+
+There may be duplicate records among Happywhale datasets and other OBIS-SEAMAP datasets. The precision of date/time vary per record. Some records have date accuracy up to year only.
+
+This dataset includes sightings and photos from the following 1 contributors in alphabetic order:
+
+Sue Flanagan</supplinf></descript><timeperd><timeinfo><rngdates><begdate>20200216</begdate><enddate>20200216</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>In work</progress><update>Weekly</update></status><spdom><descgeog>Ocean</descgeog><bounding><westbc>-67.074833</westbc><eastbc>-67.074833</eastbc><northbc>-60.369667</northbc><southbc>-60.369667</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Biology</themekey></theme></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Public.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.
+
+Suggested citation for this dataset:
+
+Happywhale. 2020. Happywhale - Short-finned Pilot Whale in Southern Ocean. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/2092) on yyyy-mm-dd and originated from Happywhale.com (https://happywhale.com/)
+
+
+
+Suggested citation for OBIS-SEAMAP:
+
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115
+
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.
+
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. 
+
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.
+
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.
+
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Ted Cheeseman</cntper><cntorg>Happywhale</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			</cntaddr>
+		<cntvoice>unknown</cntvoice><cntemail>ted@happywhale.com</cntemail></cntinfo>
+	</ptcontac><datacred>Happywhale and contributors</datacred>
+	<native>Relational database</native>
+	<crossref><citeinfo><origin>Southerland, K., and  T. Cheeseman</origin><pubdate>2020</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo/><onlink>https://happywhale.com/</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20201111</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-06</latres><longres>1e-06</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Internal ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Internal ID</udom></attrdomv></attr><attr><attrlabl>type</attrlabl><attrdef>Always 'Event'</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Always 'Event'</udom></attrdomv></attr><attr><attrlabl>modified</attrlabl><attrdef>Last modified</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Last modified</udom></attrdomv></attr><attr><attrlabl>language</attrlabl><attrdef>Language. Always 'en'</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Language. Always 'en'</udom></attrdomv></attr><attr><attrlabl>institution_code</attrlabl><attrdef>Institution code. Always 'Happywhale'</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Institution code. Always 'Happywhale'</udom></attrdomv></attr><attr><attrlabl>basis_of_record</attrlabl><attrdef>Basis of record. Always 'HumanObservation'</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Basis of record. Always 'HumanObservation'</udom></attrdomv></attr><attr><attrlabl>occurrence_id</attrlabl><attrdef>Occurrence ID assigned by Happywhale</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Occurrence ID assigned by Happywhale</udom></attrdomv></attr><attr><attrlabl>catalog_number</attrlabl><attrdef>Catalog number. A link to Happywhale</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Catalog number. A link to Happywhale</udom></attrdomv></attr><attr><attrlabl>recorded_by</attrlabl><attrdef>Person or organization who recorded the data</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Person or organization who recorded the data</udom></attrdomv></attr><attr><attrlabl>individual_count</attrlabl><attrdef>Number of animal. Always 1</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2-5</rdommin><rdommax>2-5</rdommax></rdom></attrdomv></attr><attr><attrlabl>sex</attrlabl><attrdef>Gender of the animal if known</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Gender of the animal if known</udom></attrdomv></attr><attr><attrlabl>preparations</attrlabl><attrdef>Method of data collection. Always 'photograph'</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Method of data collection. Always 'photograph'</udom></attrdomv></attr><attr><attrlabl>occurrence_remarks</attrlabl><attrdef>Occurrence remarks</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Occurrence remarks</udom></attrdomv></attr><attr><attrlabl>organism_id</attrlabl><attrdef>Organism/animal ID assigned by Happywhale</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Organism/animal ID assigned by Happywhale</udom></attrdomv></attr><attr><attrlabl>organism_name</attrlabl><attrdef>Organism/animal name by provider</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Organism/animal name by provider</udom></attrdomv></attr><attr><attrlabl>organism_remarks</attrlabl><attrdef>Organism remarks</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Organism remarks</udom></attrdomv></attr><attr><attrlabl>event_id</attrlabl><attrdef>Event ID assigned by Happywhale</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Event ID assigned by Happywhale</udom></attrdomv></attr><attr><attrlabl>event_date</attrlabl><attrdef>Date the picture was taken</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Date the picture was taken</udom></attrdomv></attr><attr><attrlabl>event_time</attrlabl><attrdef>Time the picture was taken in local time zone</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Time the picture was taken in local time zone</udom></attrdomv></attr><attr><attrlabl>higher_geography</attrlabl><attrdef>Ocean the animal was seen</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Ocean the animal was seen</udom></attrdomv></attr><attr><attrlabl>water_body</attrlabl><attrdef>Details of ocean</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Details of ocean</udom></attrdomv></attr><attr><attrlabl>locality</attrlabl><attrdef>Location of ocean</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Location of ocean</udom></attrdomv></attr><attr><attrlabl>verbatim_locality</attrlabl><attrdef>Location of ocean described by the provider</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Location of ocean described by the provider</udom></attrdomv></attr><attr><attrlabl>decimal_latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Latitude in decimal degrees</udom></attrdomv></attr><attr><attrlabl>decimal_longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Longitude in decimal degrees</udom></attrdomv></attr><attr><attrlabl>geodetic_datum</attrlabl><attrdef>Geodetic datum. Always 'EPSG:4326 WGS84'</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geodetic datum. Always 'EPSG:4326 WGS84'</udom></attrdomv></attr><attr><attrlabl>coordinate_precision</attrlabl><attrdef>Coordinate precision</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Coordinate precision</udom></attrdomv></attr><attr><attrlabl>scientific_name</attrlabl><attrdef>Scientific name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Scientific name</udom></attrdomv></attr><attr><attrlabl>taxon_rank</attrlabl><attrdef>Taxon rank</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Taxon rank</udom></attrdomv></attr><attr><attrlabl>vernacular_name</attrlabl><attrdef>Common name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Common name</udom></attrdomv></attr><attr><attrlabl>license</attrlabl><attrdef>License for picture</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>License for picture</udom></attrdomv></attr><attr><attrlabl>rights_holder</attrlabl><attrdef>Rights holder</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Rights holder</udom></attrdomv></attr><attr><attrlabl>external_resource</attrlabl><attrdef>Link to the picture (mid size)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Link to the picture (mid size)</udom></attrdomv></attr><attr><attrlabl>external_resource_thumb</attrlabl><attrdef>Link to the picture (small size)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Link to the picture (small size)</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>Happywhale</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke University</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 2092</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.
+Also please refer to Use Constraints.
+</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20201111</metd><metrd>20201111</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

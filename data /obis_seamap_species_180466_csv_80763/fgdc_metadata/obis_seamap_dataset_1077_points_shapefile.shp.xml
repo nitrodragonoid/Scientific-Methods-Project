@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo>
+		<origin>Aldemaro Romero, Macalester College</origin><pubdate>20140106</pubdate><title>Macalester College marine mammal sightings around Grenada, West Indies 1999</title><geoform>vector digital data</geoform><serinfo><sername>OBIS-SEAMAP</sername><issue>Latest</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/1077</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><onlink>http://www.macalester.edu</onlink></citeinfo>
+	</citation><descript>
+	<abstract>To document the Grenadian marine mammal fauna and its distribution in the eastern Caribbean, we conducted field and archival studies in that country. All records of sirenians and cetaceans for Grenada were assembled and analyzed. The total number of confirmed marine mammal species for this part of the world is 11. The humpback whale (&lt;i&gt;Megaptera novaeangliae&lt;/i&gt;) was the most commonly reported mysticete species while a variety of odontocetes seem to be equally frequent in those waters. The manatee (&lt;i&gt;Trichechus manatus&lt;/i&gt;) has been extinct from those waters for at least 300 years. Comparison with the marine mammal fauna of adjacent regions (Venezuela, Trinidad, and St. Vincent and the Grenadines), leads us to believe that at least seven additional species of cetaceans may be present in Grenadian waters, probably as occasional visitors.</abstract><purpose>There are three indications that the marine mammal fauna of Grenada may be much more abundant and diverse than ever reported. Therefore, we decided to investigate the nature of the marine mammal fauna for that country. To that end, we combined information for three major sources: data from published or unpublished (archival) documents, accounts from reliable observers, and our own field observations. As a result, we have been able to increase the number of confirmed records from three to 11.</purpose><supplinf>Sightings from the field observations are a subset of the entire dataset, presented here on OBIS-SEAMAP.&lt;br&gt;&#13;
+For records that did not have time of observation available, "00:00:00" was used and noted in the [Notes] field.&lt;br&gt;&#13;
+For records that originally sighted a range for the number of individuals observed, the median number was used to be conservative, and noted in the [Notes] field.</supplinf></descript><timeperd><timeinfo><rngdates><begdate>19990724</begdate><enddate>19990728</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><descgeog>Refer to bounding</descgeog><bounding><westbc>-61.846833</westbc><eastbc>-61.493167</eastbc><northbc>12.653167</northbc><southbc>12.109167</southbc></bounding>
+	</spdom><keywords><theme><themekt>Platform</themekt><themekey>Vessels</themekey><themekey>Sightings</themekey></theme></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals, seabirds, sea turtles</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella longirostris</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Physeteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Physeter</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Physeter macrocephalus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Open public unless otherwise noted.</accconst><useconst>1. Not to use data contained in OBIS-SEAMAP in any publication, product, or commercial application without prior written consent of the original data provider.&#13;
+	&#13;
+	2. To cite both the data provider and OBIS-SEAMAP appropriately after approval of use is obtained.&#13;
+	&#13;
+	3. Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.</useconst><ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Aldemaro Romero</cntper><cntorg>Southern Illinois University Edwardsville</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>College of Arts and Sciences</address><city>Edwardsville</city><state>IL</state><postal>62026-1608</postal><country>USA</country></cntaddr>
+		<cntvoice>618-650-5047</cntvoice><cntemail>aromero@siue.edu</cntemail></cntinfo>
+	</ptcontac><datacred>Aldemaro Romero, Macalester College</datacred>
+	<native>Relational database</native>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<crossref><citeinfo><origin>Romero, A., K.T. Hayford, A. Romero and J. Romero</origin><pubdate>2002</pubdate><title>The marine mammals of Grenada, W.I., and their conservation status</title><geoform>vector digital data</geoform><serinfo><sername>Mammalia</sername><issue>66(4):479-494</issue></serinfo><onlink>http://www.siue.edu/artsandsciences/pdf/deanspublications/410.MarineMammalsGrenada.pdf</onlink></citeinfo></crossref></idinfo>
+	<dataqual><logic>not applicable</logic><complete>No report provided</complete><lineage><procstep><procdesc>not provided</procdesc><procdate>Unknown</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-06</latres><longres>1e-06</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID (created by OBIS-SEAMAP)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>recnum</attrlabl><attrdef>Record number (by spreadsheet)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude (decimal degrees)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude (decimal degrees)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>latdeg</attrlabl><attrdef>Latitude (degree)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>latmin</attrlabl><attrdef>Latitude (minute)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>longdeg</attrlabl><attrdef>Longitude (degree)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>longmin</attrlabl><attrdef>Longitude (minute)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>landref</attrlabl><attrdef>Land reference (distance in m)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>depth</attrlabl><attrdef>Depth (m)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>obs_time</attrlabl><attrdef>Time of observation</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>duration</attrlabl><attrdef>Duration of observation (minutes:seconds)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>numind</attrlabl><attrdef>Number of individuals</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>obs_count</attrlabl><attrdef>Number of animals sighted</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>sp_obs</attrlabl><attrdef>Species observed</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>obs_date</attrlabl><attrdef>Date of observation</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Species ITIS TSN</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>notes</attrlabl><attrdef>Notes for when time was not available or when abundance was originally a range and a median was used (created by OBIS-SEAMAP)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>19990724</begdatea><enddatea>19990728</enddatea></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>Aldemaro Romero, Macalester College</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 1077</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20140106</metd><metc>
+		<cntinfo><cntperp>
+	<cntper>Connie Kot</cntper>
+	<cntorg>Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<metadata>
+  <idinfo>
+    <descript>
+      <abstract>BMMRO has been conducting a long-term study documenting the occurrence, distribution, and abundance of marine mammals around the islands of The Bahamas since 1991. Currently based in Sandy Point on Great Abaco Island, this project provides the only comprehensive documentation of marine mammal fauna in this part of the world. &lt;br&gt;&lt;br&gt;&#xD;
+The dataset presented here includes only marine mammal sightings, and other sea turtle sightings and marine mammal strandings and sightings are included in separate datasets in OBIS-SEAMAP. The dataset presented here is a subset of marine mammal sightings between 1988 and 2011, including sightings reported from the public. The dataset also is a subset of BMMRO vessel encounters with marine mammals between 1991 and 2011, comprising 20 different species, with the Atlantic bottlenose dolphin representing 60% of all encounters. The entire dataset includes stranding records between 1944 and 2011. In addition, the entire dataset includes sightings of turtles comprising 3 different species between 1991 and 2011.&lt;br&gt;&lt;br&gt;&#xD;
+A sighting is when our vessel was unable to close in on the group of animals while an encounter is when closing was successful and photographs / video recording of the animals were obtained. The dataset includes off-transect sightings and encounters (opportunistic).</abstract>
+      <purpose></purpose>
+      <supplinf>Please use this dataset along with off-transect tracklines. Note that the original ship location data were recorded every minute. Tracklines up to 2006 were constructed using locations every five minutes to reduce the data size; tracklines constructed for 2006-2011 used data recorded every minute. Tracklines that intersected land were excluded. On-transect sightings and encounters are provided in a different dataset.&lt;br&gt;&lt;br&gt;&#xD;
+8/15/2011: This dataset was updated to include data collected from 2006 to 2008. Data from 2006-2008 did not include group size estimates and "1" was used to be conservative. Effort transects are only available for 3/11/1997-10/1/2008.&lt;Br&gt;&lt;br&gt;&#xD;
+06/12/2013: This dataset was updated to include group size estimate data collected from 2006-2008 and sightings/effort data for 2008-2011. When records did not include group size estimates or time, "1" was used to be conservative, and 00:00:00 was used, respectively.&#xD;
+8/8/2013: Effort tracklines that crossed land were excluded and updated, as well as records that had incorrect time values.</supplinf>
+    </descript>
+    <citation>
+      <citeinfo>
+        <origin>Bahamas Marine Mammal Research Organisation</origin>
+        <pubdate>2013-07-11 17:27:44</pubdate>
+        <title>Bahamas Marine Mammal Research Organisation Opportunistic Sightings</title>
+        <ftname>seamap329</ftname>
+        <geoform>vector digital data</geoform>
+        <onlink>http://www.bahamaswhales.org</onlink>
+        <onlink>http://seamap.env.duke.edu/datasets/detail/329</onlink>
+        <serinfo>
+          <sername>OBIS-SEAMAP</sername>
+        </serinfo>
+        <pubinfo>
+          <pubplace>http://seamap.env.duke.edu/dataset/329</pubplace>
+          <publish>OBIS-SEAMAP</publish>
+        </pubinfo>
+      <edition></edition></citeinfo>
+    </citation>
+    <timeperd>
+      <current>ground condition</current>
+      <timeinfo>
+        <rngdates>
+          <begdate>1988-12-01</begdate>
+          <enddate>2011-07-29</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom><bounding><westbc>-79.373067</westbc><eastbc>-72.5</eastbc><northbc>27.309833</northbc><southbc>21.833333</southbc></bounding><lboundng><leftbc>-79.373067</leftbc><rightbc>-72.5</rightbc><topbc>27.309833</topbc><bottombc>21.833333</bottombc></lboundng></spdom>
+    <keywords><theme><themekt>Platform</themekt><themekey>Vessels</themekey><themekey>Sightings</themekey></theme><theme><themekt>User defined</themekt><themekey>Marine mammals</themekey><themekey>Encoutners</themekey></theme></keywords>
+    <accconst>Open public unless otherwise noted.</accconst>
+    <useconst>1. Not to use data contained in OBIS-SEAMAP in any publication, product, or commercial application without prior written consent of the original data provider.&#xD;
+&#xD;
+2. To cite both the data provider and OBIS-SEAMAP appropriately after approval of use is obtained.&#xD;
+&#xD;
+3. Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.</useconst>
+    <natvform>Shapefile</natvform>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Charlotte Dunn</cntper>
+          <cntorg>Bahamas Marine Mammal Research Organisation</cntorg>
+        </cntperp>
+        <cntpos></cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>P.O. Box AB-20714</address>
+          <city>Marsh Harbour</city>
+          <state>Abaco</state>
+          <postal></postal>
+          <country>Bahamas</country>
+        </cntaddr>
+        <cntvoice>12423664155</cntvoice>
+        <cntemail>cdunn@bahamaswhales.org</cntemail>
+      <cntfax>12423664155</cntfax></cntinfo>
+    </ptcontac>
+    <datacred>Bahamas Marine Mammal Research Organisation</datacred>
+    <taxonomy><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><title>Integrated Taxonomic Information System</title><onlink>http://www.itis.usda.gov/</onlink><othercit>Downloaded April, 2004</othercit></citeinfo></classcit></classsys><ider><cntinfo><cntorgp><cntorg>Refer to the contact information of the dataset</cntorg></cntorgp></cntinfo></ider></taxonsys></taxonomy>
+  <crossref><citeinfo><origin>Dunn, C.</origin><pubdate>2012</pubdate><title>Bahamas Marine Mammal Research Organisation, unpublished data</title><onlink></onlink><serinfo><sername></sername><issue></issue></serinfo></citeinfo></crossref></idinfo>
+  <metainfo>
+    <metc><cntinfo><cntperp><cntper>Connie Kot</cntper><cntorg>Duke University</cntorg></cntperp><cntpos></cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>135 Duke Marine Lab Road</address><city>Beaufort</city><state>NC</state><country>USA</country><postal>28516</postal></cntaddr><cntemail>connie.kot@duke.edu</cntemail><cntvoice>252-504-7640</cntvoice></cntinfo></metc>
+    <metextns>
+      <onlink>http://www.nbii.gov/</onlink>
+      <metprof>Biological Data Profile</metprof>
+    </metextns>
+  <metd>2010-03-18</metd><metrd>2013-08-08</metrd></metainfo>
+  <dataqual>
+    <posacc>
+      <horizpa>
+        <horizpar></horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr></vertaccr>
+      </vertacc>
+    </posacc>
+  <attracc><attraccr></attraccr></attracc><complete></complete></dataqual>
+<distinfo><distrib><cntinfo><cntorgp><cntper>OBIS-SEAMAP</cntper><cntorg>Nicholas School of Environment, Duke Univ.</cntorg></cntorgp><cntpos></cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr><cntvoice>919-613-8021</cntvoice><cntemail>seamap-contact@duke.edu</cntemail><cntefax></cntefax></cntinfo></distrib><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#xD;
+Also please refer to Use Constraints.&#xD;
+</distliab><stdorder><fees>Free</fees><ordering>Go to the OBIS-SEAMAP web site</ordering><digform><digtinfo><formname>zip</formname><filedec>zipped shapefile</filedec></digtinfo><digtopt><onlinopt><computer><networka><networkr>http://seamap.env.duke.edu/dataset/329</networkr></networka></computer></onlinopt></digtopt></digform></stdorder></distinfo><spref><horizsys><cordsysn><geogcsn>GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit>Decimal degrees</geogunit><latres>0.000167</latres><longres>0.000167</longres></geograph><geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref><eainfo><overview><eadetcit>Bahamas Marine Mammal Research Organisation</eadetcit><eaover></eaover></overview><detailed><attr><attrlabl>oid</attrlabl><attrdef>Unique ID (created by OBIS-SEAMAP)</attrdef></attr><attr><attrlabl>totalrecno</attrlabl><attrdef></attrdef></attr><attr><attrlabl>dataset</attrlabl><attrdef></attrdef></attr><attr><attrlabl>lineno</attrlabl><attrdef></attrdef></attr><attr><attrlabl>dateest</attrlabl><attrdef></attrdef></attr><attr><attrlabl>dategmt</attrlabl><attrdef></attrdef></attr><attr><attrlabl>encseq</attrlabl><attrdef></attrdef></attr><attr><attrlabl>sightingsq</attrlabl><attrdef></attrdef></attr><attr><attrlabl>sp_obs</attrlabl><attrdef>Species Observed</attrdef></attr><attr><attrlabl>spcode</attrlabl><attrdef>Species code</attrdef></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Species ITIS TSN</attrdef></attr><attr><attrlabl>spsci</attrlabl><attrdef>Scientific name of species observed</attrdef></attr><attr><attrlabl>gsize</attrlabl><attrdef>Original group size estimated</attrdef></attr><attr><attrlabl>obs_count</attrlabl><attrdef>Total number of animals observed</attrdef></attr><attr><attrlabl>timeest</attrlabl><attrdef></attrdef></attr><attr><attrlabl>begtime</attrlabl><attrdef></attrdef></attr><attr><attrlabl>endtime</attrlabl><attrdef></attrdef></attr><attr><attrlabl>area</attrlabl><attrdef></attrdef></attr><attr><attrlabl>transect</attrlabl><attrdef></attrdef></attr><attr><attrlabl>timegmt</attrlabl><attrdef></attrdef></attr><attr><attrlabl>time2</attrlabl><attrdef></attrdef></attr><attr><attrlabl>lat_s</attrlabl><attrdef></attrdef></attr><attr><attrlabl>lon_s</attrlabl><attrdef></attrdef></attr><attr><attrlabl>latitude</attrlabl><attrdef>Observed latitude</attrdef></attr><attr><attrlabl>longitude</attrlabl><attrdef>Observed longitude</attrdef></attr><attr><attrlabl>watertemp</attrlabl><attrdef>Temperature (Celsius)</attrdef></attr><attr><attrlabl>depth</attrlabl><attrdef>Depth (meters)</attrdef></attr><attr><attrlabl>cloudcover</attrlabl><attrdef></attrdef></attr><attr><attrlabl>beaufort</attrlabl><attrdef></attrdef></attr><attr><attrlabl>vessel</attrlabl><attrdef></attrdef></attr><attr><attrlabl>excluded</attrlabl><attrdef></attrdef></attr><attr><attrlabl>notes</attrlabl><attrdef>Notes for when time was not available and "00:00:00" was filled and when counts were not available "1" was filled</attrdef></attr><attr><attrlabl>datetime_gmt</attrlabl><attrdef></attrdef></attr><attr><attrlabl>datetime</attrlabl><attrdef></attrdef></attr><attr><attrlabl>convert</attrlabl><attrdef></attrdef></attr><attr><attrlabl>timezone</attrlabl><attrdef></attrdef></attr></detailed></eainfo></metadata>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo>
+		<origin>NOAA Northeast Fisheries Science Center (NEFSC)</origin><pubdate>20150512</pubdate><title>AMAPPS Northeast Shipboard Cruise Summer 2011</title><geoform>vector digital data</geoform><serinfo><sername>OBIS-SEAMAP</sername><issue>Latest</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/1269</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><onlink>http://www.nefsc.noaa.gov/</onlink></citeinfo>
+	</citation><descript>
+	<abstract>Please contact data provider</abstract><purpose>Please contact data provider</purpose><supplinf>Perpendicular distance to the animal is not publicly available.</supplinf></descript><timeperd><timeinfo><rngdates><begdate>20110604</begdate><enddate>20110731</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><descgeog>North Atlantic</descgeog><bounding><westbc>-74.83516</westbc><eastbc>-64.82075</eastbc><northbc>42.08188</northbc><southbc>36.62551</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Animal Survey</themekey><themekey>Marine Biology</themekey><themekey>Marine mammals</themekey><themekey>Sea turtles</themekey><themekey>Visual Sighting</themekey><themekey>Vessel</themekey></theme><place><placekt>None</placekt><placekey>North Atlantic</placekey></place></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Balaenopteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Balaenoptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera acutorostrata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera borealis</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera physalus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Megaptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Megaptera novaeangliae</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Delphinus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Delphinus delphis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala melas</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Grampus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Grampus griseus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Lagenorhynchus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Lagenorhynchus acutus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Orcinus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Orcinus orca</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella coeruleoalba</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella frontalis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Steno</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Steno bredanensis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Hyperoodontidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Mesoplodon</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon bidens</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon europaeus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Ziphius</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Ziphius cavirostris</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Kogiidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Kogia</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Kogia breviceps</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Kogia sima</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Phocoenidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Phocoena</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Phocoena phocoena</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Physeteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Physeter</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Physeter macrocephalus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Class</taxonrn><taxonrv>Reptilia</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Testudines</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Cryptodira</taxonrv><taxoncl><taxonrn>Superfamily</taxonrn><taxonrv>Chelonioidea</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Cheloniidae</taxonrv><taxoncl><taxonrn>Subfamily</taxonrn><taxonrv>Carettinae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Caretta</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Caretta caretta</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Dermochelyidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Dermochelys</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Dermochelys coriacea</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Open public unless otherwise noted.</accconst><useconst>1. Not to use data contained in OBIS-SEAMAP in any publication, product, or commercial application without prior written consent of the original data provider.&#13;
+	&#13;
+	2. To cite both the data provider and OBIS-SEAMAP appropriately after approval of use is obtained.&#13;
+	&#13;
+	3. Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.</useconst><ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Beth Josephson</cntper><cntorg>NOAA Fisheries</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>166 Water Street</address><city>Woods Hole</city><state>MA</state><postal>02556</postal><country>USA</country></cntaddr>
+		<cntvoice>508.495.2362</cntvoice><cntemail>elizabeth.josephson@noaa.gov</cntemail></cntinfo>
+	</ptcontac><datacred>NOAA Northeast Fisheries Science Center (NEFSC)</datacred>
+	<native>Relational database</native>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<crossref><citeinfo><origin>Palka, Debra</origin><pubdate>2011</pubdate><title>Cruise Results - HB1103</title><geoform>vector digital data</geoform><serinfo><sername>Unknown</sername><issue>Unknown</issue></serinfo><onlink>http://www.nefsc.noaa.gov/psb/surveys/documents/HB1103_cruise_report.pdf</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20150512</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-05</latres><longres>1e-05</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>tripid</attrlabl><attrdef>Trip ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Trip ID</udom></attrdomv></attr><attr><attrlabl>platformvlts</attrlabl><attrdef>Always</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Always</udom></attrdomv></attr><attr><attrlabl>oneffort</attrlabl><attrdef>Flag (Y/N) to indicate on effort.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Flag (Y/N) to indicate on effort.</udom></attrdomv></attr><attr><attrlabl>speciescode</attrlabl><attrdef>Species code</attrdef><attrdefs>Data provider</attrdefs><attrdomv><codesetd><codesetn>Species code</codesetn><codesets>Data provider</codesets></codesetd></attrdomv></attr><attr><attrlabl>comname</attrlabl><attrdef>Common name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Common name</udom></attrdomv></attr><attr><attrlabl>kingdom</attrlabl><attrdef>Kingdom</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Kingdom</udom></attrdomv></attr><attr><attrlabl>phylum</attrlabl><attrdef>Phylum</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Phylum</udom></attrdomv></attr><attr><attrlabl>class</attrlabl><attrdef>Class</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Class</udom></attrdomv></attr><attr><attrlabl>order_sci</attrlabl><attrdef>Order</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Order</udom></attrdomv></attr><attr><attrlabl>family</attrlabl><attrdef>Family</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Family</udom></attrdomv></attr><attr><attrlabl>scientificname</attrlabl><attrdef>Scientific name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Scientific name</udom></attrdomv></attr><attr><attrlabl>references_</attrlabl><attrdef>References</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>References</udom></attrdomv></attr><attr><attrlabl>observationheight</attrlabl><attrdef>Altitude of aircraft in feet above sea level</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>15.10</rdommin><rdommax>15.10</rdommax></rdom></attrdomv></attr><attr><attrlabl>platformspeed</attrlabl><attrdef>Speed of the platform at the time of the sighting in knots</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>7.50</rdommin><rdommax>11.80</rdommax></rdom></attrdomv></attr><attr><attrlabl>higherinstitutioncode</attrlabl><attrdef>Higher institution code "DOC:NOAA:NEFSC"</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Higher institution code "DOC:NOAA:NEFSC"</udom></attrdomv></attr><attr><attrlabl>institutioncode</attrlabl><attrdef>Institution code "NEFSC"</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Institution code "NEFSC"</udom></attrdomv></attr><attr><attrlabl>ownerinstitutioncode</attrlabl><attrdef>Instituion who owns the data "NEFSC"</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Instituion who owns the data "NEFSC"</udom></attrdomv></attr><attr><attrlabl>basisofrecord</attrlabl><attrdef>Basis of record "HumanObservation"</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Basis of record "HumanObservation"</udom></attrdomv></attr><attr><attrlabl>recordtype</attrlabl><attrdef>Record type "VLTS"  (visual line transect survey)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Record type "VLTS"  (visual line transect survey)</udom></attrdomv></attr><attr><attrlabl>sightid</attrlabl><attrdef>Sight ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Sight ID</udom></attrdomv></attr><attr><attrlabl>individualcount</attrlabl><attrdef>Individual count</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>450</rdommax></rdom></attrdomv></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>36.625510</rdommin><rdommax>42.081880</rdommax></rdom></attrdomv></attr><attr><attrlabl>typevlts</attrlabl><attrdef>Flag to indicate the first observation sighting on transect (F) or others.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><codesetd><codesetn>Flag to indicate the first observation sighting on transect (F) or others.</codesetn><codesets>Data provider</codesets></codesetd></attrdomv></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-74.835160</rdommin><rdommax>-64.820750</rdommax></rdom></attrdomv></attr><attr><attrlabl>perpendiculardistance</attrlabl><attrdef>Perpendicular distance to the animal</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0.0000000</rdommin><rdommax>13400.0000000</rdommax></rdom></attrdomv></attr><attr><attrlabl>datasetid</attrlabl><attrdef>Dataset ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Dataset ID</udom></attrdomv></attr><attr><attrlabl>datasetname</attrlabl><attrdef>Dataset name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Dataset name</udom></attrdomv></attr><attr><attrlabl>eventdate</attrlabl><attrdef>Date and time of the sigthing at local time</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2011-06-04T06:32:17</rdommin><rdommax>2011-07-31T17:16:20</rdommax></rdom></attrdomv></attr><attr><attrlabl>eventdatetimezone</attrlabl><attrdef>The time zone of the observation event</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>The time zone of the observation event</udom></attrdomv></attr><attr><attrlabl>time</attrlabl><attrdef>Date and time of the sighting in UTC</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2011-06-04T10:32:17Z</rdommin><rdommax>2011-07-31T21:16:20Z</rdommax></rdom></attrdomv></attr><attr><attrlabl>effortid</attrlabl><attrdef>Effort ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Effort ID</udom></attrdomv></attr><attr><attrlabl>cue</attrlabl><attrdef>The sighting cue that initially drew the observers attention</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>The sighting cue that initially drew the observers attention</udom></attrdomv></attr><attr><attrlabl>behavior</attrlabl><attrdef>Behavior</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Behavior</udom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>NOAA Northeast Fisheries Science Center (NEFSC)</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 1269</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20150515</metd><metrd>20150515</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

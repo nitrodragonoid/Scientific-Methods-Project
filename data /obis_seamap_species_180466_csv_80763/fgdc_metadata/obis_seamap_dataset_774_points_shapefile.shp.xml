@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+	<MetaID>{999A9551-D701-4CF5-9373-131D3DD8D969}</MetaID>
+	<CreaDate>20050512</CreaDate>
+	<CreaTime>19291400</CreaTime>
+	<SyncOnce>FALSE</SyncOnce>
+	<SyncDate>20060710</SyncDate>
+	<SyncTime>17161900</SyncTime>
+	<ModDate>20060815</ModDate>
+	<ModTime>12091700</ModTime>
+</Esri>
+<idinfo>
+	<keywords><theme><themekt>None</themekt><themekey>Vessels</themekey><themekey>Sightings</themekey></theme><place><placekt>None</placekt><placekey>Mediterranean</placekey><placekey>Italy</placekey><placekey>cetacean distribution</placekey></place></keywords>
+	<native Sync="TRUE">Relational database</native>
+	<descript>
+	<langdata Sync="TRUE">en</langdata>
+	<abstract>This dataset, belonging as a whole to Tethys Research Institute, comprises the work carried out between 1986 and 2012 mainly in the Mediterranean Sea and in particular in the Corso-Ligurian-Provencal basin, in the Ionian Sea and in the Adriatic Sea. Research has also been carried out investigating cetaceans in Atlantic Ocean (Canary Islands, Morocco coasts) and in the Caribbean Sea. The dataset generated includes more than 8.400 sightings of cetaceans collected in 25 years of research activity.</abstract><purpose>Founded in 1986, the Tethys Research Institute is a private non-profit organization specializing in cetacean research. Tethys has generated one of the largest datasets on Mediterranean cetaceans and contributed over 300 scientific publications. Tethys aims to protect the Mediterranean biodiversity by promoting the adoption of a precautionary approach for the management of natural resources. The work carried out by Tethys strives to prevent the decline of marine species and to encourage sustainable use of the marine environment. Tethys first conceived and proposed the creation a Marine Reserve in the Corso-Ligurian Basin, the “Pelagos Sanctuary.” Several internationally renowned institutions have emphasized the importance of the Sanctuary, including the World Conservation Union (IUCN), the Bonn Convention on migratory species, and the newly-born Agreement on the Conservation of Cetaceans of the Mediterranean Sea, Black Sea and Contiguous Atlantic Areas (ACCOBAMS). The Sanctuary has also been added to the list of Specially Protected Areas of Mediterranean Importance (SPAMI), created at the Barcelona Convention in 1999. This makes the Ligurian Sea Cetacean Sanctuary the first and only high seas protected area in the world. Moreover, based primarily on data collected by the Tethys Research Institute, a Dolphin Reserve was formally established in Losinj, Croatia in 2006.&#13;
+&#13;
+Research methods utilized by Tethys include the use of remote sensing and telemetry data, the combined use of laser range-finding binoculars and GPS to record the movements of whales, population studies based on distance sampling and photographic capture-recapture, bioacoustics research, behavioral sampling, remote collection of biopsy samples for genetic and toxicological analyses, and historical studies. The Institute holds vast photographic archives of cetacean images that have enabled the identification of over 1,500 individuals of eight Mediterranean species.&#13;
+&#13;
+Tethys Research Institute has involved in its expeditions thousands of people from all over the world, and has developed a remarkable cetacean research and conservation network. Tethys has been conducting its research and conservation activities thanks to support received from national and international organizations. Tethys is partner to the UNEP's Agreement on the Conservation of Cetaceans in the Black Sea, Mediterranean Sea and Contiguous Atlantic Area (ACCOBAMS). The Italian Ministry of the Environment funded various cetacean research and conservation activities carried out by the Institute. The UNEP's Regional Activity Centre for Specially Protected Areas (RAC-SPA), the Earthwatch Institute, OceanCare and The Whale and Dolphin Conservation Society WDCS have been providing support to specific projects conducted by Tethys in the context of a long-term collaboration.</purpose><supplinf>[2015-03-24] A few records had a wrong animal count of zero. The value is replaced with a blank representing species presence only.&#13;
+&#13;
+[2014-03-05] 2011-2012 data were added.&#13;
+&#13;
+Effort data are only available for a subset of surveys. For records with time and observed count not available, the corresponding columns were empty.</supplinf></descript>
+	<citation>
+		<citeinfo><origin>Lanfredi, C. and G. Notarbartolo di Sciara</origin><pubdate>2014</pubdate><title>Tethys Research Institute shipboard survey cetacean sightings 1986-2012</title><onlink>http://seamap.env.duke.edu/dataset/774</onlink><serinfo><sername>OBIS-SEAMAP</sername><issue>774</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/774</pubplace><publish>OBIS-SEAMAP</publish></pubinfo></citeinfo>
+	</citation>
+	<timeperd><current>ground condition</current><timeinfo><rngdates><begdate>19860711</begdate><enddate>20121122</enddate></rngdates></timeinfo></timeperd>
+	<status><progress>Complete</progress><update>None planned</update></status>
+	<spdom><bounding><westbc>-67.341667</westbc><eastbc>22.7965</eastbc><northbc>45.633333</northbc><southbc>10.286944</southbc></bounding><lboundng><leftbc Sync="TRUE">-67.341667</leftbc><rightbc Sync="TRUE">323.968333</rightbc><bottombc Sync="TRUE">10.286944</bottombc><topbc Sync="TRUE">45.633333</topbc></lboundng><descgeog>Mediterranean</descgeog></spdom>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.
+
+Suggested citation for this dataset
+
+Lanfredi, C. and G. Notarbartolo di Sciara. 2014. Tethys Research Institute shipboard survey cetacean sightings 1986-2012. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/774) on yyyy-mm-dd.
+
+Suggested citation for OBIS-SEAMAP:
+
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115
+
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.
+
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. 
+
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.
+
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.
+
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<natvform Sync="TRUE">Shapefile</natvform>
+	
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Caterina Lanfredi; Giuseppe Notarbartolo di Sciara</cntper><cntorg>Tethys Research Institute; Tethys Research Institute</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>Viale G.B. Gadio 2; Via Benedetto Marcello 43</address><city>Milano; Milano</city><postal>20121; 20124</postal><country>Italy; Italy</country><state>n/a; n/a</state></cntaddr>
+		<cntpos/><cntemail>caterina.lanfredi@polimi.it; tethys@tethys.org</cntemail><cntvoice>+39 0272001947; +390272001947</cntvoice></cntinfo>
+	</ptcontac>
+<taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Balaenopteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Balaenoptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera acutorostrata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera borealis</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera edeni</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera physalus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Megaptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Megaptera novaeangliae</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Delphinus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Delphinus delphis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala melas</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Grampus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Grampus griseus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Peponocephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Peponocephala electra</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Pseudorca</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Pseudorca crassidens</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Sousa</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Sousa teuszii</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella attenuata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella clymene</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella coeruleoalba</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella frontalis</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella longirostris</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Hyperoodontidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Mesoplodon</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon bidens</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon densirostris</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Mesoplodon europaeus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Ziphius</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Ziphius cavirostris</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Kogiidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Kogia</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Kogia breviceps</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Physeteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Physeter</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Physeter macrocephalus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy><datacred>Tethys Research Institute</datacred><crossref><citeinfo><origin>Notarbartolo di Sciara, G., T. Agardy, D. Hyrenbach, T. Scovazzi and P. Van Klaveren</origin><pubdate>2007</pubdate><title>The Pelagos sanctuary for Mediterranean marine mammals</title><serinfo><sername>Aquatic Conservation: Marine and Freshwater Ecosystems</sername><issue>18:367-391</issue></serinfo></citeinfo></crossref><crossref><citeinfo><origin>Bearzi, G., E. Politi, S. Agazzi, S. Bruno, M. Costa and S. Bonizzoni</origin><pubdate>2005</pubdate><title>Occurrence and present status of coastal dolphins (&lt;i&gt;Delphinus delphis&lt;/i&gt; and &lt;i&gt;Tursiops truncatus&lt;/i&gt;) in the eastern Ionian Sea</title><serinfo><sername>Aquatic Conservation: Marine and Freshwater Ecosystems</sername><issue>15:243-257</issue></serinfo></citeinfo></crossref><crossref><citeinfo><origin>Azzellino, A., S. Gaspari, S. Airoldi and B. Nani</origin><pubdate>2008</pubdate><title>Habitat use and preferences of cetaceans along the continental slope and the adjacent pelagic waters in the western Ligurian Sea</title><serinfo><sername>Deep-Sea Research I</sername><issue>55:296-323</issue></serinfo></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+
+<metainfo>
+	<langmeta Sync="TRUE">en</langmeta>
+	<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+	<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+	<mettc Sync="TRUE">local time</mettc>
+	<metc>
+		<cntinfo>
+			<cntorgp>
+			<cntper>Ei Fujioka</cntper>
+			<cntorg>Nicholas School of Environment, Duke University</cntorg>
+			</cntorgp>
+			<cntaddr><addrtype>mailing and physical address</addrtype><city>Durham</city><state>NC</state><postal>27708</postal><address>A328, LSRC</address><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		<cntperp><cntper>Connie Kot</cntper><cntorg>Duke University</cntorg></cntperp><cntpos/></cntinfo>
+	</metc>
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns>
+	<metd>20160503</metd>
+<metrd>20160503</metrd></metainfo>
+
+<mdLang><languageCode Sync="TRUE" value="en"/></mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"/></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"/></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+
+<distinfo>
+	<resdesc Sync="TRUE">OBIS-SEAMAP Dataset ID 774</resdesc>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<transize Sync="TRUE">0.021</transize>
+				<dssize Sync="TRUE">0.021</dssize>
+			</digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site and click on [Datasets] tab appearing on upper left.</ordering>
+	</stdorder>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<city>Durham</city><state>NC</state><country>USA</country><address>A328, LSRC</address><postal>27708</postal>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		<cntpos/><cntefax/></cntinfo>
+	</distrib>
+
+	<distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+</distinfo>
+
+	<distInfo>
+		<distributor><distorTran>
+				<onLineSrc><orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.021</transSize></distorTran>
+			<distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat>
+		</distributor></distInfo>
+	<spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf>
+		</ptvctinf></spdoinfo>
+	<spref><horizsys><cordsysn><geogcsn>GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit>Decimal degrees</geogunit><latres>1e-06</latres><longres>1e-06</longres></geograph><geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"/></topLvl>
+		</VectSpatRep>
+	</spatRepInfo><eainfo><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>Tethys Research Institute</eadetcit></overview><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (added by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (added by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>nameid</attrlabl><attrdef>Dataset name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Dataset name</udom></attrdomv></attr><attr><attrlabl>row_id</attrlabl><attrdef>Row ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Row ID</udom></attrdomv></attr><attr><attrlabl>database</attrlabl><attrdef>Database name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Database name</udom></attrdomv></attr><attr><attrlabl>project</attrlabl><attrdef>Project name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Project name</udom></attrdomv></attr><attr><attrlabl>obs_date</attrlabl><attrdef>Date of observation</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1986-07-11</rdommin><rdommax>2012-11-22</rdommax></rdom></attrdomv></attr><attr><attrlabl>obs_year</attrlabl><attrdef>Year</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2005</rdommin><rdommax>2012</rdommax></rdom></attrdomv></attr><attr><attrlabl>obs_time</attrlabl><attrdef>Time of the observation (local time zone)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>00:00:00</rdommin><rdommax>23:57:57</rdommax></rdom></attrdomv></attr><attr><attrlabl>datetime_utc</attrlabl><attrdef>Time of the observation (UTC)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1986-07-10 23:00:00</rdommin><rdommax>2012-11-22 12:41:34</rdommax></rdom></attrdomv></attr><attr><attrlabl>timezone_h</attrlabl><attrdef>Time difference against UTC</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-4</rdommin><rdommax>2</rdommax></rdom></attrdomv></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>10.2869440</rdommin><rdommax>45.6333330</rdommax></rdom></attrdomv></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-67.3416670</rdommin><rdommax>22.7965000</rdommax></rdom></attrdomv></attr><attr><attrlabl>sp_obs</attrlabl><attrdef>Species observed</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Species observed</udom></attrdomv></attr><attr><attrlabl>obs_count</attrlabl><attrdef>Number of animals</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0</rdommin><rdommax>200</rdommax></rdom></attrdomv></attr><attr><attrlabl>notes</attrlabl><attrdef>Details for when time and count were not recorded (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Details for when time and count were not recorded (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><codesetd><codesetn>Taxonomic Serial Number added by OBIS-SEAMAP</codesetn><codesets>Data provider</codesets></codesetd></attrdomv></attr><attr><attrlabl>tprecision</attrlabl><attrdef>Temporal precision added by OBIS-SEAMAP (111111: up to day; 111000: up to year)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Temporal precision added by OBIS-SEAMAP (111111: up to day; 111000: up to year)</udom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed></eainfo><mdDateSt Sync="TRUE">20060815</mdDateSt>
+	<dataqual><posacc><horizpa><horizpar/></horizpa><vertacc><vertaccr/></vertacc></posacc><attracc><attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc><complete>All observation records are included.</complete><logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20140306</procdate></procstep></lineage></dataqual>
+</metadata>

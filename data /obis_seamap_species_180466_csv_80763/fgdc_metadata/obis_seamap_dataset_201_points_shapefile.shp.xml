@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<metadata>
+  <idinfo>
+    <descript>
+      <abstract>This 1989 eastern tropical Pacific cetacean line-transect survey was the fourth in a series of annual surveys (1986-1990) designed to monitor and detect trends in populations of dolphins killed in the yellowfin tuna purse seine fishery. This survey was conducted by the NOAA Southwest Fisheries Science Center aboard NOAA ships &lt;i&gt;David Starr Jordan&lt;/i&gt; and &lt;i&gt;McArthur&lt;/i&gt; for a combined total of approximately 27,000 kilometers surveyed from late July to early December 1989. This dataset provides the time-date and geographical coordinates, by species/stock, of all cetaceans detected during the survey, as well as the daily and intra-daily start and end points of the line-transect survey by the NOAA Ship &lt;i&gt;McArthur&lt;/i&gt;.</abstract>
+      <purpose>The primary purpose of the survey was to collect the information necessary to calculate the relative abundance of those dolphin stocks in the eastern tropical Pacific that are taken as a bycatch of the yellowfin tuna purse seine fishery.</purpose>
+      <supplinf>This dataset is supplemental to the following datasets: &#xD;
+SWFSC Marine Mammal Survey, MOPS 1986, Cruise 989&#xD;
+SWFSC Marine Mammal Survey, MOPS 1986, Cruise 990&#xD;
+SWFSC Marine Mammal Survey, MOPS 1987, Cruise 1080&#xD;
+SWFSC Marine Mammal Survey, MOPS 1987, Cruise 1081&#xD;
+SWFSC Marine Mammal Survey, MOPS 1988, Cruise 1164&#xD;
+SWFSC Marine Mammal Survey, MOPS 1988, Cruise 1165&#xD;
+SWFSC Marine Mammal Survey, MOPS 1989, Cruise 1267&#xD;
+SWFSC Marine Mammal Survey, MOPS 1990, Cruise 1369&#xD;
+SWFSC Marine Mammal Survey, MOPS 1990, Cruise 1370&#xD;
+SWFSC Marine Mammal Survey, STAR 1998, Cruise 1610&#xD;
+SWFSC Marine Mammal Survey, STAR 1998, Cruise 1611&#xD;
+SWFSC Marine Mammal Survey, STAR 1998, Cruise 1612&#xD;
+SWFSC Marine Mammal Survey, STAR 1999, Cruise 1613&#xD;
+SWFSC Marine Mammal Survey, STAR 1999, Cruise 1614&#xD;
+SWFSC Marine Mammal Survey, STAR 2000, Cruise 1615&#xD;
+SWFSC Marine Mammal Survey, STAR 2000, Cruise 1616&#xD;
+SWFSC Marine Mammal Survey, STAR 2003, Cruise 1623&#xD;
+SWFSC Marine Mammal Survey, STAR 2003, Cruise 1624&#xD;
+SWFSC Marine Mammal Survey, STAR 2006, Cruise 1630&#xD;
+SWFSC Marine Mammal Survey, STAR 2006, Cruise 1631&#xD;
+SWFSC Marine Mammal Survey, STAR-LITE 2007, Cruise 1634</supplinf>
+    </descript>
+    <citation>
+      <citeinfo><origin>Gerrodette, T</origin><pubdate>2004</pubdate><title>SWFSC Marine Mammal Survey, MOPS 1989, Cruise 1268</title><onlink>http://seamap.env.duke.edu/dataset/201</onlink><serinfo><sername>OBIS-SEAMAP</sername><issue>201</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/201</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><geoform>vector digital data</geoform></citeinfo>
+    </citation>
+    <timeperd>
+      <current>ground condition</current>
+      <timeinfo>
+        <rngdates>
+          <begdate>19890731</begdate>
+          <enddate>19891206</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom><bounding><westbc>-149.35</westbc><eastbc>-81.55</eastbc><northbc>31.02</northbc><southbc>-6.17</southbc></bounding><lboundng><leftbc>-149.35</leftbc><rightbc>-81.55</rightbc><topbc>31.02</topbc><bottombc>-6.17</bottombc></lboundng><descgeog>Pacific</descgeog></spdom>
+    <keywords><theme><themekt>None</themekt><themekey>Vessels</themekey><themekey>Sightings</themekey><themekey>Cetaceans</themekey><themekey>Whales</themekey><themekey>Dolphins</themekey><themekey>Stenella</themekey><themekey>Delphinus</themekey><themekey>Population</themekey><themekey>Abundance</themekey><themekey>Survey</themekey><themekey>Census</themekey></theme><place><placekt>None</placekt><placekey>Pacific</placekey><placekey>Eastern Tropical Pacific</placekey><placekey>ETP</placekey></place></keywords>
+    <accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+    <useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.&#xD;
+&#xD;
+Suggested citation for this dataset:&#xD;
+&#xD;
+Gerrodette, T. 2004. SWFSC Marine Mammal Survey, MOPS 1989, Cruise 1268. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/201) on yyyy-mm-dd.&#xD;
+&#xD;
+Suggested citation for OBIS-SEAMAP:&#xD;
+&#xD;
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115&#xD;
+&#xD;
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.&#xD;
+&#xD;
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. &#xD;
+&#xD;
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.&#xD;
+&#xD;
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.&#xD;
+&#xD;
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+    <natvform>Shapefile</natvform>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jeffrey Moore</cntper>
+          <cntorg>Southwest Fisheries Science Center, NOAA</cntorg>
+        </cntperp>
+        <cntpos/>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>8901 La Jolla Shores Dr.</address>
+          <city>La Jolla</city>
+          <state>CA</state>
+          <postal>92037</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>unknown</cntvoice>
+        <cntemail>jeff.e.moore@noaa.gov</cntemail>
+      <cntfax/></cntinfo>
+    </ptcontac>
+    <datacred>Marine Mammal and Turtle Division, Southwest Fisheries Science Center, NMFS, NOAA</datacred>
+    <taxonomy><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><title>Integrated Taxonomic Information System</title><onlink>http://www.itis.usda.gov/</onlink><othercit>Downloaded April, 2004</othercit></citeinfo></classcit></classsys><ider><cntinfo><cntorgp><cntorg>Refer to the contact information of the dataset</cntorg></cntorgp></cntinfo></ider></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxontsn>202423</taxontsn><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxontsn>158852</taxontsn><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxontsn>331030</taxontsn><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxontsn>179913</taxontsn><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxontsn>179916</taxontsn><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxontsn>179925</taxontsn><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxontsn>180403</taxontsn><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv><taxontsn>552298</taxontsn><taxoncl><taxonrn>Family</taxonrn><taxonrv>Balaenopteridae</taxonrv><taxontsn>180522</taxontsn><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Balaenoptera</taxonrv><taxontsn>180523</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera edeni</taxonrv><taxontsn>180525</taxontsn></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera musculus</taxonrv><taxontsn>180528</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Megaptera</taxonrv><taxontsn>180529</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Megaptera novaeangliae</taxonrv><taxontsn>180530</taxontsn></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxontsn>180404</taxontsn><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxontsn>180415</taxontsn><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Delphinus</taxonrv><taxontsn>180437</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Delphinus capensis</taxonrv><taxontsn>555654</taxontsn></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Delphinus delphis</taxonrv><taxontsn>180438</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Feresa</taxonrv><taxontsn>180460</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Feresa attenuata</taxonrv><taxontsn>180461</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxontsn>180464</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv><taxontsn>180466</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Grampus</taxonrv><taxontsn>180456</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Grampus griseus</taxonrv><taxontsn>180457</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Lagenodelphis</taxonrv><taxontsn>180439</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Lagenodelphis hosei</taxonrv><taxontsn>180440</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Lagenorhynchus</taxonrv><taxontsn>180441</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Lagenorhynchus obliquidens</taxonrv><taxontsn>180444</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Orcinus</taxonrv><taxontsn>180468</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Orcinus orca</taxonrv><taxontsn>180469</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Peponocephala</taxonrv><taxontsn>180458</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Peponocephala electra</taxonrv><taxontsn>180459</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Pseudorca</taxonrv><taxontsn>180462</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Pseudorca crassidens</taxonrv><taxontsn>180463</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxontsn>180428</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella attenuata</taxonrv><taxontsn>180430</taxontsn></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella coeruleoalba</taxonrv><taxontsn>180434</taxontsn></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella longirostris</taxonrv><taxontsn>180429</taxontsn><taxoncl><taxonrn>Subspecies</taxonrn><taxonrv>Stenella longirostris orientalis</taxonrv><taxontsn>612612</taxontsn></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Steno</taxonrv><taxontsn>180416</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Steno bredanensis</taxonrv><taxontsn>180417</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxontsn>180425</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv><taxontsn>180426</taxontsn></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Hyperoodontidae</taxonrv><taxontsn>770799</taxontsn><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Indopacetus</taxonrv><taxontsn>180501</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Indopacetus pacificus</taxonrv><taxontsn>180502</taxontsn></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Mesoplodon</taxonrv><taxontsn>180506</taxontsn></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Ziphius</taxonrv><taxontsn>180497</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Ziphius cavirostris</taxonrv><taxontsn>180498</taxontsn></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Kogiidae</taxonrv><taxontsn>621144</taxontsn><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Kogia</taxonrv><taxontsn>180490</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Kogia sima</taxonrv><taxontsn>180492</taxontsn></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Physeteridae</taxonrv><taxontsn>180486</taxontsn><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Physeter</taxonrv><taxontsn>180487</taxontsn><taxoncl><taxonrn>Species</taxonrn><taxonrv>Physeter macrocephalus</taxonrv><taxontsn>180488</taxontsn></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+  <native>Relational database</native><crossref><citeinfo><origin>Hill, P. Scott, Alan Jackson, and Tim Gerrodette</origin><pubdate>1990</pubdate><title>Report of a marine mammal survey of the Eastern Tropical Pacific aboard the R/V Mcarthur, July 29-December 7, 1989</title><geoform>vector digital data</geoform><serinfo><sername>NOAA-TM-NMFS-SWFC-143</sername></serinfo><onlink>http://swfsc.noaa.gov/publications/TM/SWFSC/NOAA-TM-NMFS-SWFC-143.PDF</onlink></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+  <metainfo>
+    <metc><cntinfo><cntperp><cntper>Ei Fujioka</cntper><cntorg>Duke University</cntorg></cntperp><cntpos/><cntaddr><addrtype>mailing and physical address</addrtype><address>A328 LSRC, Box 90328</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr><cntvoice>919-613-8021</cntvoice><cntemail>efujioka@duke.edu</cntemail></cntinfo></metc>
+    <metextns>
+      <onlink>http://www.nbii.gov/</onlink>
+      <metprof>Biological Data Profile</metprof>
+    </metextns>
+  <metd>20220303</metd><metrd>20220303</metrd></metainfo>
+  <dataqual>
+    <posacc>
+      <horizpa>
+        <horizpar/>
+      </horizpa>
+      <vertacc>
+        <vertaccr/>
+      </vertacc>
+    </posacc>
+  <attracc><attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc><complete>All observation records are included.</complete><logic>Permissible values for date and time and coordinates were &#xD;
+validated by the data provider and the OBIS-SEAMAP data &#xD;
+manager. Species identification by the data provider was &#xD;
+matched with Integrated Taxonomic Information System.</logic><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20210429</procdate></procstep></lineage></dataqual>
+<distinfo><distrib><cntinfo><cntorgp><cntper>OBIS-SEAMAP</cntper><cntorg>Nicholas School of Environment, Duke Univ.</cntorg></cntorgp><cntpos/><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr><cntvoice>919-613-8021</cntvoice><cntemail>seamap-contact@duke.edu</cntemail><cntefax/></cntinfo></distrib><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#xD;
+Also please refer to Use Constraints.</distliab><stdorder><fees>Free</fees><ordering>Go to the OBIS-SEAMAP web site</ordering><digform><digtinfo><formname>zip</formname><filedec>zipped shapefile</filedec></digtinfo><digtopt><onlinopt><computer><networka><networkr>http://seamap.env.duke.edu/dataset/201</networkr></networka></computer></onlinopt></digtopt></digform></stdorder><resdesc>OBIS-SEAMAP Dataset ID 201</resdesc></distinfo><spref><horizsys><cordsysn><geogcsn>GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit>Decimal degrees</geogunit><latres>0.01</latres><longres>0.01</longres></geograph><geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref><eainfo><overview><eadetcit>NOAA Southwest Fisheries Science Center (SWFSC)</eadetcit><eaover>This section explains attributes included in the original dataset.&#xD;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and &#xD;
+species names/counts only.&#xD;
+Should you need other attributes described here, you are encouraged to contact the data &#xD;
+provider.</eaover></overview><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>dataset</attrlabl><attrdef>definition not provided</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>EP1268</rdommin><rdommax>EP1268</rdommax></rdom></attrdomv></attr><attr><attrlabl>lineno</attrlabl><attrdef>Line No.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>99</rdommax></rdom></attrdomv></attr><attr><attrlabl>cruise</attrlabl><attrdef>Cruise No.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1268</rdommin><rdommax>1268</rdommax></rdom></attrdomv></attr><attr><attrlabl>date</attrlabl><attrdef>Date</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>10/10/1989</rdommin><rdommax>9/9/1989</rdommax></rdom></attrdomv></attr><attr><attrlabl>time</attrlabl><attrdef>Time</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1:00:00 PM</rdommin><rdommax>9:58:00 AM</rdommax></rdom></attrdomv></attr><attr><attrlabl>sightno</attrlabl><attrdef>Sighting No.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>01</rdommin><rdommax>18</rdommax></rdom></attrdomv></attr><attr><attrlabl>spcode</attrlabl><attrdef>Species code</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>002</rdommin><rdommax>099</rdommax></rdom></attrdomv></attr><attr><attrlabl>scientific</attrlabl><attrdef>Scientific name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>Balaenoptera borealis/edeni</rdommin><rdommax>Ziphius cavirostris</rdommax></rdom></attrdomv></attr><attr><attrlabl>common</attrlabl><attrdef>Common name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>Baja neritic common dolphin, long beaked common dolphin</rdommin><rdommax>Whitebelly spinner dolphin</rdommax></rdom></attrdomv></attr><attr><attrlabl>tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>180403</rdommin><rdommax>612612</rdommax></rdom></attrdomv></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-6.170000</rdommin><rdommax>31.020000</rdommax></rdom></attrdomv></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-149.350000</rdommin><rdommax>-81.550000</rdommax></rdom></attrdomv></attr><attr><attrlabl>school</attrlabl><attrdef>definition not provided</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>3100</rdommax></rdom></attrdomv></attr><attr><attrlabl>excluded</attrlabl><attrdef>definition not provided</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>False</rdommin><rdommax>False</rdommax></rdom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0101000020E61000000000000000005CC08FC2F5285C0F2340</rdommin><rdommax>0101000020E6100000F6285C8FC2E560C09A99999999192440</rdommax></rdom></attrdomv></attr><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>565</rdommax></rdom></attrdomv></attr></detailed></eainfo></metadata>

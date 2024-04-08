@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo>
+		<origin>Pool, M. and M. de Boer</origin><pubdate>2020</pubdate><title>Dedicated boat-based surveys for marine megafauna in Suriname</title><geoform>vector digital data</geoform><serinfo><sername>OBIS-SEAMAP</sername><issue>2124</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/2124</pubplace><publish>OBIS-SEAMAP</publish></pubinfo><onlink>http://seamap.env.duke.edu/dataset/2124</onlink></citeinfo>
+	</citation><descript>
+	<abstract>The Marine Spatial Planning (MSP) project in Suriname was initiated in 2017. Part of this EU-funded project focussed on collecting all the information regarding marine megafauna within the region (Suriname and Guyana). As part of the MSP project we searched for potential marine mammal data holders and different data-sets were found: &#13;
+(1) research data: published and unpublished data collected during dedicated (effort-related) marine fauna surveys (where a GPS track was available); &#13;
+(2) data collected by Marine Fauna Observers during geophysical seismic surveys (without an available GPS track); &#13;
+(3) Opportunistic data collected without keeping track of effort (e.g. website, social media and other sighting records collected by university students or citizens); and &#13;
+(4) Systematic land-based observations carried out during sea turtle surveys on Braamspunt. Here you can find all effort-related data regarding research data collected during boat-based &#13;
+surveys in Suriname. &#13;
+&#13;
+There are two types of boat-based data: &#13;
+(1) Small boat-based surveys by Green Heritage Fund Suriname in order to study the Guiana dolphin (Sotalia guianensis) in the Suriname River; and &#13;
+(2) Dedicated marine megafauna boat-based surveys at-sea carried out by &#13;
+M.N. de Boer and colleagues as part of a PhD study for the University of Wageningen.</abstract><purpose>The project aims to significantly enhance the governance and protection of marine and coastal resources of Guyana and Suriname through collaborative processes with all ocean stakeholders, improved knowledge of the coastal and marine environment, enhanced capacity of key stakeholders and informed marine spatial management. Upon completion of the marine Spatial planning project, we aim to continue to add new marine megafauna records to OBIS SEAMAP.</purpose></descript><timeperd><timeinfo><rngdates><begdate>20120517</begdate><enddate>20191024</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><descgeog>Suriname</descgeog><bounding><westbc>-56.515167</westbc><eastbc>-51.71783</eastbc><northbc>11.014167</northbc><southbc>5.82772</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Animal Survey</themekey><themekey>Marine Biology</themekey><themekey>Seabirds</themekey><themekey>Marine mammals</themekey><themekey>Sea turtles</themekey><themekey>Visual Sighting</themekey><themekey>Vessel</themekey></theme><place><placekt>None</placekt><placekey>Suriname</placekey></place></keywords><taxonomy/>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.&#13;
+&#13;
+Suggested citation for this dataset:&#13;
+&#13;
+Pool, M. and M. de Boer. 2020. Dedicated boat-based surveys for marine megafauna in Suriname. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/2124) on yyyy-mm-dd.&#13;
+&#13;
+Suggested citation for OBIS-SEAMAP:&#13;
+&#13;
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115&#13;
+&#13;
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.&#13;
+&#13;
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. &#13;
+&#13;
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.&#13;
+&#13;
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.&#13;
+&#13;
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Marijke de Boer; Monique Pool</cntper><cntorg>Wageningen Marine Research, University of Wageningen; Green Heritage Fund of Suriname</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>n/a; Geertruidastr 24</address><city>1780 AB Den Helder; Paramaribo</city><state>n/a; Paramaribo</state><postal>n/a; n/a</postal><country>The Netherlands; Suriname</country></cntaddr>
+		<cntvoice>n/a; 597 437533</cntvoice><cntemail>marijkedeboer@hotmail.com; monique@greenfundsuriname.org</cntemail></cntinfo>
+	</ptcontac><datacred>Monique Pool, Green Heritage Fund of Suriname</datacred>
+	<native>Relational database</native>
+	<crossref><citeinfo><origin>De Boer, M.N.</origin><pubdate>2015</pubdate><title>Cetaceans observed off Suriname and adjacent waters.</title><geoform>vector digital data</geoform><serinfo><sername>Latin American Journal of Aquatic Mammals</sername><issue>10(1): 2-19</issue></serinfo><onlink>http://dx.doi.org/10.5597/lajam00189</onlink></citeinfo></crossref><crossref><citeinfo><origin>De Boer MN, Williams AW, Saulino JT</origin><pubdate>2014</pubdate><title>Observations of pelagic seabirds in the waters offshore Suriname, May-July 2012</title><geoform>vector digital data</geoform><serinfo><sername>The Academic Journal of Suriname</sername><issue>Acad J Sur 5:474-491</issue></serinfo></citeinfo></crossref><crossref><citeinfo><origin>Pool, MS</origin><pubdate>2019</pubdate><title>Estuarine Mammal Baseline for the proposed Suriname River Dredging ESIA Update Project</title><geoform>vector digital data</geoform><serinfo><sername>Prepared for: SRK Consulting</sername><issue>March 2019</issue></serinfo><onlink>https://drive.google.com/file/d/1OeWlhxUchiQ9IIC8hshs65tCc5QirYcX/view</onlink></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20210211</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-05</latres><longres>1e-05</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>database_ref</attrlabl><attrdef>Database reference</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>6232</rdommin><rdommax>8833</rdommax></rdom></attrdomv></attr><attr><attrlabl>company</attrlabl><attrdef>Company</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Company</udom></attrdomv></attr><attr><attrlabl>date_org</attrlabl><attrdef>Date in original format</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Date in original format</udom></attrdomv></attr><attr><attrlabl>start_time_org</attrlabl><attrdef>Time in original format</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Time in original format</udom></attrdomv></attr><attr><attrlabl>timezone</attrlabl><attrdef>Time zone (LT: local time zone)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Time zone (LT: local time zone)</udom></attrdomv></attr><attr><attrlabl>date_time</attrlabl><attrdef>Date / time</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2012-05-17 09:32:00</rdommin><rdommax>2019-10-24 10:09:00</rdommax></rdom></attrdomv></attr><attr><attrlabl>method</attrlabl><attrdef>Method</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Method</udom></attrdomv></attr><attr><attrlabl>observer_code</attrlabl><attrdef>Observer code</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Observer code</udom></attrdomv></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>5.8277200</rdommin><rdommax>11.0141670</rdommax></rdom></attrdomv></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-56.5151670</rdommin><rdommax>-51.7178300</rdommax></rdom></attrdomv></attr><attr><attrlabl>water_depth</attrlabl><attrdef>Water depth (m)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Water depth (m)</udom></attrdomv></attr><attr><attrlabl>platformtype</attrlabl><attrdef>Platform type</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Platform type</udom></attrdomv></attr><attr><attrlabl>species</attrlabl><attrdef>Species name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Species name</udom></attrdomv></attr><attr><attrlabl>latin_name</attrlabl><attrdef>Scientific name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Scientific name</udom></attrdomv></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>159786</rdommin><rdommax>824147</rdommax></rdom></attrdomv></attr><attr><attrlabl>species_certainty</attrlabl><attrdef>Certainty of the species identification</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Certainty of the species identification</udom></attrdomv></attr><attr><attrlabl>num_animals</attrlabl><attrdef>Total number of animals</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>250</rdommax></rdom></attrdomv></attr><attr><attrlabl>adult</attrlabl><attrdef>Number of adults</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Number of adults</udom></attrdomv></attr><attr><attrlabl>juv</attrlabl><attrdef>Number of Juvenile</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>0</rdommin><rdommax>15</rdommax></rdom></attrdomv></attr><attr><attrlabl>calf</attrlabl><attrdef>Number of Carlves.</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Number of Carlves.</udom></attrdomv></attr><attr><attrlabl>behaviour</attrlabl><attrdef>Behaviour</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Behaviour</udom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>Green Heritage Fund of Suriname</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 2124</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20210212</metd><metrd>20210212</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

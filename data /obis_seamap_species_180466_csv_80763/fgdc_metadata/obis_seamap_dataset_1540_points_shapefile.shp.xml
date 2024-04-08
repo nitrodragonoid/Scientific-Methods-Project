@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo>
+	</citation><descript>
+	<abstract>Based on a review of the literature, complemented by original observations at sea made by the authors during the past 34 years, the cetacean fauna in the Red Sea appears to be composed by a total of 16 species: three Mysticetes (Bryde’s whale, Balaenoptera edeni; Omura’s whale, B. omurai; and humpback whale, Megaptera novaeangliae) and 13 Odontocetes (dwarf sperm whale, Kogia sima; killer whale, Orcinus orca; false killer whale, Pseudorca crassidens; short-finned pilot whale, Globicephala macrorhynchus; Risso’s dolphin, Grampus griseus; Indian Ocean humpback dolphin, Sousa plumbea; rough-toothed dolphin, Steno bredanensis; Indo-Pacific bottlenose dolphin, Tursiops aduncus; common bottlenose dolphin, T. truncatus; pantropical spotted dolphin, Stenella attenuata; spinner dolphin, S. longirostris; striped dolphin, S. coeruleoalba; Indo-Pacific common dolphin, Delphinus delphis tropicalis). This review presents the very first documented and confirmed sightings of B. omurai, K. sima and S. bredanensis in the Red Sea. Of all the above species, however, only nine (Bryde’s whale, false killer whale, Risso’s dolphin, Indian Ocean humpback dolphin, Indo-Pacific bottlenose dolphin, common bottlenose dolphin, pantropical spotted dolphin, spinner dolphin, and Indo-Pacific common dolphin) appeared to occur regularly in the Red Sea, the remaining seven only occurring sporadically as vagrants from the Indian Ocean. Even regular species appeared not to be uniformly distributed throughout the Red Sea, e.g., with Indo-Pacific common dolphins mostly limited to the southern portion of the region, and the Gulf of Suez only hosting the two bottlenose dolphin species and Indian Ocean humpback dolphins. No convincing evidence was found of the Red Sea occurrence of two whale species mentioned in the literature: the common minke whale, Balaenoptera acutorostrata, and the sperm whale, Physeter macrocephalus. The absence from the region of deep diving species (e.g., Ziphiidae and the sperm whale) can be explained by the geomorphology of the Straits of Bab al Mandab, with its extended shallow sill likely to discourage incursions by such species into the Red Sea. The coordinated effort and the different expertise of the authors has contributed to amend previous mistakes and inaccuracies, verify and validate specimen identification, highlight features of relevance for species taxonomy and, most importantly, draw a fundamental baseline to inform conservation of cetaceans in the Red Sea.</abstract><purpose>To release updated information about cetacean species in the Red Sea and review existing information from published and grey literature.</purpose><supplinf>Sighting records were collected from the data owners:&#13;
+&#13;
+Chris Smeenk&#13;
+&#13;
+Eritrea Project - Yohannes Mebrahtu&#13;
+&#13;
+Israel Marine Mammal Research &amp; Assistance Center - IMMRAC&#13;
+Mia Elasar, Daphna Feingold, Oz Goffman, Nir Hadar, Dan Kerem, Aviad Scheinin&#13;
+&#13;
+Peter Rudolph&#13;
+&#13;
+Red Sea Dolphin Project - HEPCA&#13;
+&#13;
+This dataset incorporated the previously published dataset "IMMRAC marine mammal sightings from the Red Sea (http://seamap.env.duke.edu/dataset/1145)".&#13;
+&#13;
+Temporal resolution varies per record. Time values are not available. "tprecision" column is added to indicate the resolution.</supplinf></descript><timeperd><timeinfo><rngdates><begdate>19840609</begdate><enddate>20170101</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>Annually</update></status><spdom><descgeog>Red Sea</descgeog><bounding><westbc>32.3</westbc><eastbc>44.066667</eastbc><northbc>31.166161</northbc><southbc>11.666667</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Animal Survey</themekey><themekey>Marine Biology</themekey><themekey>Marine mammals</themekey><themekey>Visual Sighting</themekey><themekey>Vessel</themekey></theme><place><placekt>None</placekt><placekey>Red Sea</placekey><placekey>Egypt</placekey><placekey>Sudan</placekey><placekey>Eritrea</placekey><placekey>Yemen</placekey><placekey>Saudi Arabia</placekey><placekey>Israel</placekey><placekey>Gulf</placekey><placekey>Suez</placekey><placekey>Aqaba</placekey></place></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Balaenopteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Balaenoptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera edeni</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera omurai</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Megaptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Megaptera novaeangliae</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Delphinus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Delphinus capensis</taxonrv><taxoncl><taxonrn>Subspecies</taxonrn><taxonrv>Delphinus capensis tropicalis</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Grampus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Grampus griseus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Orcinus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Orcinus orca</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Pseudorca</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Pseudorca crassidens</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Sousa</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Sousa chinensis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella attenuata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella coeruleoalba</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella longirostris</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops aduncus</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Permission: the minimum attributes of the sightings are visualized through the OBIS-SEAMAP mapping tools but the dataset will become downlodable only after the user has gotten permission from the data provider.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.&#13;
+&#13;
+Suggested citation for this dataset:&#13;
+&#13;
+&#13;
+&#13;
+Suggested citation for OBIS-SEAMAP:&#13;
+&#13;
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115&#13;
+&#13;
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.&#13;
+&#13;
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. &#13;
+&#13;
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.&#13;
+&#13;
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.&#13;
+&#13;
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Giuseppe Notarbartolo di Sciara; Marina Costa</cntper><cntorg>Tethys Research Institute; Tethys Research Institute</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>Via Benedetto Marcello 43; Viale G.B. Gadio, 2</address><city>Milano; Milan</city><state>n/a; Lombardia</state><postal>20124; 20121</postal><country>Italy; Italy</country></cntaddr>
+		<cntvoice>+390272001947; +39 3287861713</cntvoice><cntemail>tethys@tethys.org; marinza.costa@gmail.com</cntemail></cntinfo>
+	</ptcontac><datacred>Marina Costa, Amina Cesario, Maddalena Fumagalli &amp; Giuseppe Notarbartolo di Sciara, Tethys Research Institute&#13;
+Chris Smeenk&#13;
+Eritrea Project - Yohannes Mebrahtu&#13;
+IMMRAC&#13;
+Peter Rudolph&#13;
+Red Sea Dolphin Project - HEPCA</datacred>
+	<native>Relational database</native>
+	<crossref><citeinfo><origin>Notarbartolo di Sciara G., Kerem D., Smeenk C., Rudolph P., Cesario A., Costa M., Elasar M., Feingold D., Fumagalli M., Goffman O., Hadar N., Mebrathu Y.T., Scheinin A.</origin><pubdate>2017</pubdate><title>Cetaceans of the Red Sea</title><geoform>vector digital data</geoform><serinfo><sername>CMS Technical Series 33</sername><issue>86p</issue></serinfo></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20171012</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>1e-06</latres><longres>1e-06</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>id</attrlabl><attrdef>Row ID</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>951</rdommax></rdom></attrdomv></attr><attr><attrlabl>observation_from</attrlabl><attrdef>Always "Direct sighing"</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Always "Direct sighing"</udom></attrdomv></attr><attr><attrlabl>survey_kind</attrlabl><attrdef>Indicate whether the record came from a research survey or an opportunistic sighting</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Indicate whether the record came from a research survey or an opportunistic sighting</udom></attrdomv></attr><attr><attrlabl>geeral_source</attrlabl><attrdef>Data source / data owner</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Data source / data owner</udom></attrdomv></attr><attr><attrlabl>detailed_source</attrlabl><attrdef>Data provider</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Data provider</udom></attrdomv></attr><attr><attrlabl>sighting_date_orig</attrlabl><attrdef>Date of sighting in original format</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Date of sighting in original format</udom></attrdomv></attr><attr><attrlabl>day</attrlabl><attrdef>Day</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Day</udom></attrdomv></attr><attr><attrlabl>month</attrlabl><attrdef>Month</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Month</udom></attrdomv></attr><attr><attrlabl>year</attrlabl><attrdef>Year</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1984</rdommin><rdommax>2017</rdommax></rdom></attrdomv></attr><attr><attrlabl>tprecision</attrlabl><attrdef>Temporal resolution</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Temporal resolution</udom></attrdomv></attr><attr><attrlabl>obs_date</attrlabl><attrdef>Date of the sighting added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1984-06-09</rdommin><rdommax>2017-01-01</rdommax></rdom></attrdomv></attr><attr><attrlabl>obs_time</attrlabl><attrdef>Time of the observation is not available</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom/></attrdomv></attr><attr><attrlabl>site_name</attrlabl><attrdef>Site name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Site name</udom></attrdomv></attr><attr><attrlabl>area</attrlabl><attrdef>Area</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Area</udom></attrdomv></attr><attr><attrlabl>coordinate</attrlabl><attrdef>Indicate if the coordinates were provided or estimated</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Indicate if the coordinates were provided or estimated</udom></attrdomv></attr><attr><attrlabl>lat</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>11.6666670</rdommin><rdommax>31.1661610</rdommax></rdom></attrdomv></attr><attr><attrlabl>long</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>32.3000000</rdommin><rdommax>44.0666670</rdommax></rdom></attrdomv></attr><attr><attrlabl>species</attrlabl><attrdef>Species name recorded</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Species name recorded</udom></attrdomv></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>180419</rdommin><rdommax>771147</rdommax></rdom></attrdomv></attr><attr><attrlabl>group_size_org</attrlabl><attrdef>Group size in original format</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Group size in original format</udom></attrdomv></attr><attr><attrlabl>group_size</attrlabl><attrdef>Numeric group side added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>300</rdommax></rdom></attrdomv></attr><attr><attrlabl>calves</attrlabl><attrdef>Indicate the presence of calves</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Indicate the presence of calves</udom></attrdomv></attr><attr><attrlabl>calf_number</attrlabl><attrdef>Number of calves</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Number of calves</udom></attrdomv></attr><attr><attrlabl>notes</attrlabl><attrdef>Notes</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Notes</udom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>Tethys Research Institute</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 1540</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20171013</metd><metrd>20171013</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>

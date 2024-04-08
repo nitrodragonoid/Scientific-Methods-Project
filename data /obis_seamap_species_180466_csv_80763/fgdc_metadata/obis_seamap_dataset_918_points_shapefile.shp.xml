@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+	<MetaID>{999A9551-D701-4CF5-9373-131D3DD8D969}</MetaID>
+	<CreaDate>20050512</CreaDate>
+	<CreaTime>19291400</CreaTime>
+	<SyncOnce>FALSE</SyncOnce>
+	<SyncDate>20060710</SyncDate>
+	<SyncTime>17161900</SyncTime>
+	<ModDate>20060815</ModDate>
+	<ModTime>12091700</ModTime>
+</Esri>
+<idinfo>
+	<keywords><theme><themekt>Platform</themekt><themekey>Vessels</themekey><themekey>Sightings</themekey></theme></keywords>
+	<native Sync="TRUE">Relational database</native>
+	<descript>
+	<langdata Sync="TRUE">en</langdata>
+	<abstract>This dataset presents a Guam subset of the results of the Guam and Saipan Marine Species Monitoring: Winter-Spring Survey conducted on the motor vessel (M/V) Sea Fantasy (Guam survey) and the M/V Super Emerald (Saipan survey) from 15 to 29 March 2012.&lt;br/&gt;&#13;
+The objective of the 2012 survey effort was to conduct baseline surveys to further document marine mammal and sea turtle occurrence in nearshore waters around the island of Guam and Saipan. The approach primarily followed opportunistic survey protocols used in recent surveys around Guam (Ligon et al. 2011; HDR 2011), which remained within 10 kilometers (km) or 5.4 nautical miles (NM) of the coastline.</abstract><purpose>not provided</purpose><supplinf>A Saipan subset of the survey is found at &lt;a href=''&gt;&lt;/a&gt;</supplinf></descript>
+	<citation>
+		<citeinfo><origin>Spontak, D. and T. Mcconchie</origin><pubdate>2013</pubdate><title>MIRC Guam Marine Species Monitoring Winter-Spring Surveys 2012</title><onlink>http://seamap.env.duke.edu/dataset/918</onlink><serinfo><sername>OBIS-SEAMAP</sername><issue>918</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/918</pubplace><publish>OBIS-SEAMAP</publish></pubinfo></citeinfo>
+	</citation>
+	<timeperd><current>ground condition</current><timeinfo><rngdates><begdate>20120315</begdate><enddate>20120321</enddate></rngdates></timeinfo></timeperd>
+	<status><progress>Complete</progress><update>None planned</update></status>
+	<spdom><bounding><westbc>144.51411</westbc><eastbc>144.73885</eastbc><northbc>13.54723</northbc><southbc>13.33893</southbc></bounding><lboundng><leftbc Sync="TRUE">144.51411</leftbc><rightbc Sync="TRUE">144.73885</rightbc><bottombc Sync="TRUE">13.33893</bottombc><topbc Sync="TRUE">13.54723</topbc></lboundng></spdom>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.
+
+Suggested citation for this dataset
+
+Spontak, D. and T. Mcconchie. 2013. MIRC Guam Marine Species Monitoring Winter-Spring Surveys 2012. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/918) on yyyy-mm-dd.
+
+Suggested citation for OBIS-SEAMAP:
+
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115
+
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.
+
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. 
+
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.
+
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.
+
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<natvform Sync="TRUE">Shapefile</natvform>
+	
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Dana Spontak</cntper><cntorg>HDR Environmental, Operations and Construction, Inc</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>5700 Lake Wright Dr.</address><city>Norfolk</city><state>VA</state><postal>23502-1859</postal><country>USA</country></cntaddr>
+		<cntpos/><cntvoice>830-330-1834</cntvoice><cntemail>dana.spontak@hdrinc.com</cntemail><cntfax/></cntinfo>
+	</ptcontac>
+<taxonomy><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><title>Integrated Taxonomic Information System</title><onlink>http://www.itis.usda.gov/</onlink><othercit>Downloaded April, 2004</othercit></citeinfo></classcit></classsys><ider><cntinfo><cntorgp><cntorg>Refer to the contact information of the dataset</cntorg></cntorgp></cntinfo></ider></taxonsys></taxonomy><datacred>The U.S. Navy Marine Species Monitoring Program</datacred><crossref><citeinfo><origin>HDR</origin><pubdate>2012</pubdate><title>Guam and Saipan Marine Species Monitoring: Winter-Spring Survey 15-29 March</title><serinfo><sername>Prepared for U.S. Pacific Fleet and submitted to Naval Facilities Engineering Command (NAVFAC) Pacific, Pearl Harbor, Hawaii, under Contract No. N62470-10-D-3011 Task Order 17, issued to HDR, Inc.</sername><issue>15 November 2012</issue></serinfo><onlink>http://seamap.env.duke.edu/downloads/resources/hdr/A-Guam-Saipan Winter 2012 Report_FINAL_27-12-2012.pdf</onlink></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+
+<metainfo>
+	<langmeta Sync="TRUE">en</langmeta>
+	<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+	<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+	<mettc Sync="TRUE">local time</mettc>
+	<metc>
+		<cntinfo>
+			<cntorgp>
+			<cntper>Ei Fujioka</cntper>
+			<cntorg>Nicholas School of Environment, Duke University</cntorg>
+			</cntorgp>
+			<cntaddr><addrtype>mailing and physical address</addrtype><city>Durham</city><state>NC</state><postal>27708</postal><address>A328, LSRC</address><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		<cntperp><cntper>Ei Fujioka</cntper><cntorg>Duke University</cntorg></cntperp><cntpos/></cntinfo>
+	</metc>
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns>
+	<metd>2013-03-29</metd>
+<metrd>20131119</metrd></metainfo>
+
+<mdLang><languageCode Sync="TRUE" value="en"/></mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"/></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"/></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+
+<distinfo>
+	<resdesc Sync="TRUE">OBIS-SEAMAP Dataset ID 918</resdesc>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<transize Sync="TRUE">0.021</transize>
+				<dssize Sync="TRUE">0.021</dssize>
+			</digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site and click on [Datasets] tab appearing on upper left.</ordering>
+	</stdorder>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<city>Durham</city><state>NC</state><country>USA</country><address>A328, LSRC</address><postal>27708</postal>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		<cntpos/><cntefax/></cntinfo>
+	</distrib>
+
+	<distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+</distinfo>
+
+	<distInfo>
+		<distributor><distorTran>
+				<onLineSrc><orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.021</transSize></distorTran>
+			<distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat>
+		</distributor></distInfo>
+	<spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf>
+		</ptvctinf></spdoinfo>
+	<spref><horizsys><cordsysn><geogcsn>GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit>Decimal degrees</geogunit><latres>1e-05</latres><longres>1e-05</longres></geograph><geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"/></topLvl>
+		</VectSpatRep>
+	</spatRepInfo><eainfo><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>HDR Environmental, Operations and Construction, Inc.</eadetcit></overview><detailed><attr><attrlabl>oid</attrlabl><attrdef>definition not provided</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>sighting_id</attrlabl><attrdef>Sighting ID</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>obs_date</attrlabl><attrdef>Date of the sighting (local time zone)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>obs_time</attrlabl><attrdef>Time of the sighting (local time zone)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>sp_obs</attrlabl><attrdef>Species name recorded</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>obs_count</attrlabl><attrdef>best estimate of number of animals</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>grp_high</attrlabl><attrdef>High estimate of number of animals</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>grp_low</attrlabl><attrdef>Low estimate of number of animals</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>calves</attrlabl><attrdef>Number of calves</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>beaufort</attrlabl><attrdef>Beaufort Sea State</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>vessel_heading</attrlabl><attrdef>Vessel heading</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>distance</attrlabl><attrdef>Distance from vessel (m)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>bearing</attrlabl><attrdef>Animal bearing</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>bottom_depth</attrlabl><attrdef>Bottom Depth (m)</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><attr><attrlabl>behavior</attrlabl><attrdef>Behavioral summary</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>geom</attrlabl><attrdef>definition not provided</attrdef><attrdefs>data provider</attrdefs><attrdomv><rdom><rdommin>Not defined</rdommin><rdommax>Not defined</rdommax></rdom></attrdomv><begdatea>20120315</begdatea><enddatea>20120321</enddatea></attr></detailed></eainfo><mdDateSt Sync="TRUE">20060815</mdDateSt>
+	<dataqual><posacc><horizpa><horizpar/></horizpa><vertacc><vertaccr/></vertacc></posacc><attracc><attraccr/></attracc><complete>No report provided</complete><logic>not applicable</logic><lineage><procstep><procdesc>not provided</procdesc><procdate>Unknown</procdate></procstep></lineage></dataqual>
+</metadata>

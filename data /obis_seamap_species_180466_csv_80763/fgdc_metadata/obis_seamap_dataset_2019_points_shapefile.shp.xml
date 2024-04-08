@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<idinfo>
+	<citation>
+		<citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo>
+	</citation><descript>
+	<abstract>Information on cetaceans and marine turtles off Gabon in tropical West Africa was collected during boat-based surveys carried out between 7 March and 7 August 2009. Thirteen cetacean species were positively identified comprising two baleen whale species, one sperm whale species and ten species of delphinid. Bryde’s whale (Balaenoptera brydei) and humpback whale (Megaptera novaeangliae) were the most frequently encountered species. Cetaceans were found throughout a range of sea surface temperature between 20.5˚C and 27.5˚C and a wide range of depths with the majority of effort and sightings occurring seaward of the shelf break. Of particular interest from the study were the following: (1) Gabonese waters have a broad cetacean diversity, especially with a large and diversified delphinid community in the northern part of the study area; (2) the variations in oceanographic conditions within Gabonese waters are likely to result in a temporal variation in species composition; (3) the sightings of Atlantic spotted dolphin (Stenella frontalis) are the first at-sea sightings confirmed for these waters, although not unexpected given their distribution and abundant presence in surrounding waters; and (4) the poorly known Clymene dolphin (Stenella clymene) was sighted on four occasions in deep oceanic waters and was the most abundant cetacean. These are the first confirmed records of Clymene dolphins in Gabonese waters.</abstract><purpose>The main purpose of this study was to contribute information on the distribution and relative abundance of cetaceans sighted during a geophysical survey in Gabonese waters and where possible relating the occurrence of different species with oceanographic parameters such as sea surface temperature (SST) and depth.</purpose></descript><timeperd><timeinfo><rngdates><begdate>20090313</begdate><enddate>20090806</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><descgeog>Gabon</descgeog><bounding><westbc>7.3533</westbc><eastbc>10.73</eastbc><northbc>-0.6128</northbc><southbc>-5.5</southbc></bounding>
+	</spdom><keywords><theme><themekt>None</themekt><themekey>Marine Animal Survey</themekey><themekey>Marine Biology</themekey><themekey>Marine mammals</themekey><themekey>Sea turtles</themekey><themekey>Visual Sighting</themekey><themekey>Vessel</themekey></theme><place><placekt>None</placekt><placekey>Gabon</placekey></place></keywords><taxonomy><keywtax><taxonkt>Taxon covered</taxonkt><taxonkey>Marine mammals</taxonkey><taxonkey>Sea turtles</taxonkey></keywtax><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><pubdate>Unknown</pubdate><title>Integrated Taxonomic Information System</title><geoform>Not applicable</geoform><othercit>Downloaded April, 2004</othercit><onlink>http://www.itis.usda.gov/</onlink></citeinfo></classcit></classsys><ider><cntinfo><cntperp><cntper>Refer to the contact information of the dataset</cntper><cntorg>Refer to the contact information of the dataset</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>Refer to the contact information of the dataset</address><city>Refer to the contact information of the dataset</city><state>Refer to the contact information of the dataset</state><postal>Refer to the contact information of the dataset</postal><country>Refer to the contact information of the dataset</country></cntaddr><cntvoice>Not provided</cntvoice></cntinfo></ider><taxonpro>Identified by observers or researchers conducting the survey</taxonpro></taxonsys><taxoncl><taxonrn>Kingdom</taxonrn><taxonrv>Animalia</taxonrv><taxoncl><taxonrn>Phylum</taxonrn><taxonrv>Chordata</taxonrv><taxoncl><taxonrn>Subphylum</taxonrn><taxonrv>Vertebrata</taxonrv><taxoncl><taxonrn>Class</taxonrn><taxonrv>Mammalia</taxonrv><taxoncl><taxonrn>Subclass</taxonrn><taxonrv>Theria</taxonrv><taxoncl><taxonrn>Infraclass</taxonrn><taxonrv>Eutheria</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Cetacea</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Mysticeti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Balaenopteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Balaenoptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Balaenoptera brydei</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Megaptera</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Megaptera novaeangliae</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Odontoceti</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Delphinidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Delphinus</taxonrv></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Globicephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Globicephala macrorhynchus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Grampus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Grampus griseus</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Orcinus</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Orcinus orca</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Peponocephala</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Peponocephala electra</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Stenella</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella attenuata</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella clymene</taxonrv></taxoncl><taxoncl><taxonrn>Species</taxonrn><taxonrv>Stenella frontalis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Steno</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Steno bredanensis</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Tursiops</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Tursiops truncatus</taxonrv></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Hyperoodontidae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Mesoplodon</taxonrv></taxoncl></taxoncl><taxoncl><taxonrn>Family</taxonrn><taxonrv>Physeteridae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Physeter</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Physeter macrocephalus</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl><taxoncl><taxonrn>Class</taxonrn><taxonrv>Reptilia</taxonrv><taxoncl><taxonrn>Order</taxonrn><taxonrv>Testudines</taxonrv><taxoncl><taxonrn>Suborder</taxonrn><taxonrv>Cryptodira</taxonrv><taxoncl><taxonrn>Superfamily</taxonrn><taxonrv>Chelonioidea</taxonrv><taxoncl><taxonrn>Family</taxonrn><taxonrv>Cheloniidae</taxonrv><taxoncl><taxonrn>Subfamily</taxonrn><taxonrv>Carettinae</taxonrv><taxoncl><taxonrn>Genus</taxonrn><taxonrv>Lepidochelys</taxonrv><taxoncl><taxonrn>Species</taxonrn><taxonrv>Lepidochelys olivacea</taxonrv></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxoncl></taxonomy>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.&#13;
+&#13;
+Suggested citation for this dataset:&#13;
+&#13;
+&#13;
+&#13;
+Suggested citation for OBIS-SEAMAP:&#13;
+&#13;
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115&#13;
+&#13;
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.&#13;
+&#13;
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. &#13;
+&#13;
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.&#13;
+&#13;
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.&#13;
+&#13;
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Marijke de Boer</cntper><cntorg>Wageningen Marine Research, University of Wageningen</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>Postbus 167</address><city>1780 AB Den Helder</city><country>The Netherlands</country></cntaddr>
+		<cntvoice>unknown</cntvoice><cntemail>marijkedeboer@hotmail.com</cntemail></cntinfo>
+	</ptcontac><datacred>Marijke N. de Boer</datacred>
+	<native>Relational database</native>
+	<crossref><citeinfo><origin>de Boer, M.N.</origin><pubdate>2010</pubdate><title>Cetacean distribution and relative abundance in offshore Gabonese waters.</title><geoform>vector digital data</geoform><serinfo><sername>Journal of the Marine Biological Association of the United Kingdom</sername><issue>90(8): 1613-1621</issue></serinfo><onlink>https://doi.org/10.1017/S0025315410001165</onlink></citeinfo></crossref><crossref><citeinfo><origin>de Boer, M.N.</origin><pubdate>2010</pubdate><title>First record of a white rough-toothed dolphin (Steno bredanensis) off West Africa including notes on rough-toothed dolphin surface behaviour</title><geoform>vector digital data</geoform><serinfo><sername>Marine Biodiversity Records</sername><issue>Volume 3, 4 pp.</issue></serinfo><onlink>DOI: https://doi.org/10.1017/S1755267210000539</onlink></citeinfo></crossref><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All attributes were measured and recorded during the survey and validated by the data provider.</attraccr></attracc>
+		<logic>Permissible values for date and time and coordinates were validated by the data provider and the OBIS-SEAMAP data manager. Species identification by the data provider was matched with Integrated Taxonomic Information System.</logic>
+		<complete>All observation records are included.</complete><lineage><procstep><procdesc>Data were put through the OBIS-SEAMAP data registration steps.</procdesc><procdate>20191003</procdate></procstep></lineage></dataqual><spdoinfo><direct>Point</direct></spdoinfo><spref><horizsys><geograph>
+				<latres>0.0001</latres><longres>0.0001</longres><geogunit>Decimal degrees</geogunit></geograph>
+			<geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref>
+
+<eainfo><detailed><enttyp><enttypl>Biogeographic data</enttypl><enttypd>Biogeographic data</enttypd><enttypds>Not applicable</enttypds></enttyp><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Unique ID number (generated by OBIS-SEAMAP)</udom></attrdomv></attr><attr><attrlabl>sighting_no</attrlabl><attrdef>Sighting Number</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>85</rdommax></rdom></attrdomv></attr><attr><attrlabl>date_time</attrlabl><attrdef>Date and time at local time zone</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2009-03-13 07:18:00</rdommin><rdommax>2009-08-06 07:25:00</rdommax></rdom></attrdomv></attr><attr><attrlabl>datetime_utc</attrlabl><attrdef>Date and time at UTC</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>2009-03-13 06:18:00</rdommin><rdommax>2009-08-06 06:25:00</rdommax></rdom></attrdomv></attr><attr><attrlabl>observer</attrlabl><attrdef>The name of the observer who first sighted the animal</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>The name of the observer who first sighted the animal</udom></attrdomv></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>-5.50000</rdommin><rdommax>-0.61280</rdommax></rdom></attrdomv></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude in decimal degrees</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>7.35330</rdommin><rdommax>10.73000</rdommax></rdom></attrdomv></attr><attr><attrlabl>depth</attrlabl><attrdef>Water depth (metres)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Water depth (metres)</udom></attrdomv></attr><attr><attrlabl>species</attrlabl><attrdef>Species name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Species name</udom></attrdomv></attr><attr><attrlabl>latin_name</attrlabl><attrdef>Latin name</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Latin name</udom></attrdomv></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Taxonomic Serial Number added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>173828</rdommin><rdommax>612597</rdommax></rdom></attrdomv></attr><attr><attrlabl>certainty</attrlabl><attrdef>Certainty</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Certainty</udom></attrdomv></attr><attr><attrlabl>distance</attrlabl><attrdef>Distance (m)</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Distance (m)</udom></attrdomv></attr><attr><attrlabl>num_animals</attrlabl><attrdef>Number of animals</attrdef><attrdefs>Data provider</attrdefs><attrdomv><rdom><rdommin>1.00</rdommin><rdommax>200.00</rdommax></rdom></attrdomv></attr><attr><attrlabl>notes</attrlabl><attrdef>Notes</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Notes</udom></attrdomv></attr><attr><attrlabl>timezone_h</attrlabl><attrdef>Time zone added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Time zone added by OBIS-SEAMAP</udom></attrdomv></attr><attr><attrlabl>geom</attrlabl><attrdef>Geometry field added by OBIS-SEAMAP</attrdef><attrdefs>Data provider</attrdefs><attrdomv><udom>Geometry field added by OBIS-SEAMAP</udom></attrdomv></attr></detailed><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>Marijke de Boer</eadetcit></overview>
+	</eainfo><distinfo>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		</cntinfo>
+	</distrib><resdesc>OBIS-SEAMAP Dataset ID 2019</resdesc><distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.</distliab>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<formname>CSV and ESRI shapefile</formname></digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site.</ordering>
+	</stdorder>
+	
+
+	
+</distinfo><metainfo>
+	<metd>20191009</metd><metrd>20191009</metrd><metc>
+		<cntinfo><cntperp>
+	<cntper>Ei Fujioka</cntper>
+	<cntorg>Nicholas School, Duke University</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>A328, LSRC</address><city>Durham</city><state>NC</state><postal>27708</postal><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+			</cntinfo>
+	</metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc>
+	
+	
+	
+	
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns>
+	
+	</metainfo>
+	
+</metadata>
