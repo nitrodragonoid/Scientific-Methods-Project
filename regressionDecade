@@ -1,0 +1,135 @@
+import matplotlib.pyplot as plt
+from scipy import stats
+import csv
+import numpy as np
+import math
+# import sys
+# import matplotlib
+from scipy import odr
+# matplotlib.use('Agg')
+# from sklearn.metrics import r2_score
+
+oils_year = {}
+fileOil = 'Oil spillage dataset - Oil spillage dataset.csv'
+
+BlueWhale_year = {}
+fileBlueWhale = 'Blue Whale - Sheet1.csv'
+
+FinWhale_year = {}
+fileFinWhale = 'Finwhale - Sheet1.csv'
+
+GrayWhale_year = {}
+fileGrayWhale = 'Gray whale - Sheet1.csv'
+
+HumpbackWhale_year = {}
+fileHumpbackWhale = 'Humpback Whale - Sheet1.csv'
+
+MinkeWhale_year = {}
+fileMinkeWhale = 'Minke whale - Sheet1.csv'
+
+RightWhale_year = {}
+fileRightWhale = 'Right whale - Sheet1.csv'
+
+whale_year = {}
+for i in range(1903, 2014, 10):
+    oils_year[(i, i+10)] = 0
+    BlueWhale_year[(i, i+10)] = 0
+    FinWhale_year[(i, i+10)] = 0
+    GrayWhale_year[(i, i+10)] = 0
+    HumpbackWhale_year[(i, i+10)] = 0
+    MinkeWhale_year[(i, i+10)] = 0
+    RightWhale_year[(i, i+10)] = 0
+
+# Get oil spill over years
+with open(fileOil, newline='') as csvfile:
+    reader = csv.reader(csvfile)
+    c = 0
+    for row in reader:
+        if c != 0:
+            year = int(row[2].split()[-1][0:4])
+
+            amountSTR = row[4]
+            if amountSTR != "unknown" and amountSTR != '':
+                s = ""
+                for a in amountSTR:
+                    if a != ',':
+                        s = s + a
+                amount = float(s)
+                for y in oils_year.keys():
+                    if y[0] <= year and year <= y[1]:
+                        oils_year[y] += amount
+        c+=1
+        
+
+def whaleLinearRegress(file, whale, name):
+    with open(file, newline='') as csvfile:
+        reader = csv.reader(csvfile)
+        c = 0
+        start = math.inf
+        end = 0
+        for row in reader:
+            if c != 0:
+                # print(row)
+                year = int(row[0])
+                
+                amountSTR = row[1]
+                s = ''
+                for a in amountSTR:
+                    if a != ',':
+                        s = s + a
+                amount = float(s)
+                # print(amount)
+                this = 0
+                for y in whale.keys():
+                    if y[0] <= year and year <= y[1]:
+                        whale[y] += amount
+                        this = y
+                    
+                if year < start:
+                    start = this[0]
+                if year > end:
+                    end = this[1]
+            c+=1
+    # print(whale)
+
+    x = []
+    y = []
+
+    for i in range(start, end, 10):
+        # for y in oils_year.keys():
+        #     if y[0] <= year and year <= y[1]:
+        y.append(whale[(i,i+10)])
+        x.append(oils_year[(i,i+10)])
+
+
+    m, c, r, p, std_err = stats.linregress(x, y)
+
+    def linearFunc(x):
+      return m * x + c
+
+    mymodel = list(map(linearFunc, x))
+    print(name)
+    print("r",r)
+    print("p",p)
+    print("std_err",std_err)
+    print("slope", m)
+    print("intercept", c)
+    plt.scatter(x, y)
+    l = 'sq_r = ' + str(r) + '\n p = ' + str(p) + '\n stdErr = ' + str(std_err) + '\n m = ' + str(m) + '\n c = ' + str(c)
+    plt.plot(x, mymodel,label=l)
+    plt.legend(loc='best')
+    plt.title(name)
+    plt.show()
+    
+
+whaleLinearRegress(fileBlueWhale, BlueWhale_year, "Blue Whale")
+whaleLinearRegress(fileFinWhale, FinWhale_year, "Fin Whale")
+whaleLinearRegress(fileGrayWhale, GrayWhale_year, "Gray Whale")
+whaleLinearRegress(fileHumpbackWhale, HumpbackWhale_year, "Humpback Whale")
+whaleLinearRegress(fileMinkeWhale, MinkeWhale_year, "Minke Whale")
+whaleLinearRegress(fileRightWhale, RightWhale_year, "Right Whale")
+
+
+
+
+
